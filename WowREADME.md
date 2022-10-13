@@ -8,7 +8,18 @@
 
 #EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
-
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 1
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg1/chunklist_b4596000_slENG.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 2
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg2/chunklist_b4596000_slENG.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 3
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg3/chunklist_b4596000_slENG.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 4
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg4/chunklist_b4596000_slENG.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 5
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD 6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
