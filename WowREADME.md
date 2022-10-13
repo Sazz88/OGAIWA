@@ -21,18 +21,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png"group-title="ASTRO", TV3
+#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png" group-title="ASTRO",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
+#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png" group-title="ASTRO",TV3 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png"group-title="ASTRO",TV6
+EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png" group-title="ASTRO",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", NTV7
+#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="ASTRO",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
