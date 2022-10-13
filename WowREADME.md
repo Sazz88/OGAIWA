@@ -461,7 +461,7 @@ http://linears-playback.astro.com.my/vsg/41bZfaMz8f1mCpP-1YOeXl9BEHTDf1gPTuqQFi5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASTRO SUPERSPORT 2 HD
 https://linears-playback.astro.com.my/vsg/41DivM9h2OBsHEZg5U_v5wu7UsjMOzWq5A4SYtty2Q4q4=IUxD/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
