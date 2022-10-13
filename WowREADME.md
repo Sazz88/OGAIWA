@@ -16,12 +16,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="ASTRO",TV2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
+#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png"group-title="ASTRO", TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
@@ -29,7 +29,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png"group-title="ASTRO",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", NTV7
