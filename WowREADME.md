@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO", Astro Awani HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="ASTRO", BERNAMA 
 https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
@@ -252,11 +252,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 **************************************MOVIE**********************************
 
-#EXTINF:-1 tvg-id="DW" group-title="GO Exclusive" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6c301b4-a76f-4c37-86c8-4fc8f05580de
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
-# https://web.hypp.tv:443/PLTV/88888888/224/3221227595/3221227595.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
