@@ -252,6 +252,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 **************************************MOVIE**********************************
 
+#EXTINF:-1 tvg-id="DW" group-title="GO Exclusive" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6c301b4-a76f-4c37-86c8-4fc8f05580de
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+# https://web.hypp.tv:443/PLTV/88888888/224/3221227595/3221227595.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
