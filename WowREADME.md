@@ -121,7 +121,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="LIVE MALAYSIA", ASTRO BOLLYONE
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="LIVE INDIA", ASTRO BOLLYONE
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="LIVE INDIA", ABO THANGATHIRAI HD
