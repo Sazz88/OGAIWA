@@ -93,7 +93,7 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO", Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="ASTRO", BERNAMA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="ASTRO", BERNAMA HD
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Astro_Ria?file=Logo_Astro_Ria_HD.png" group-title="ASTRO",Astro Ria HD
