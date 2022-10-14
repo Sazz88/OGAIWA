@@ -27,7 +27,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="ASTRO",TV6
+#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="ASTRO",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="ASTRO",NTV7
