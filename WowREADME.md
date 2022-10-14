@@ -524,7 +524,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+<<<<<<<<<<<<<<<<<<LIVESTYLE>>>>>>>>>>>>>>>>>>>>
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
+#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="LIFESTYLE",DMAX
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+<<<<<<<<<<<<<<<<<<<<RADIO>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
