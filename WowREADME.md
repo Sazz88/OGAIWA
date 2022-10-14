@@ -270,6 +270,33 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 #EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE CHINA",Astro AOD 354 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
+**********************†***Singapore**†**†****************************
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png,Suria
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="LIVE SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
 ******************************KARTUN*****************************************
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
