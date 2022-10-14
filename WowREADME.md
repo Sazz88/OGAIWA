@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png"group-title="ASTRO",COLORS (HINDI)
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="ASTRO",COLORS (HINDI)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="ASTRO",Astro Sensasi
@@ -240,7 +240,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MOVIE",Oh!K HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MOVIE", Oh!K HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
@@ -305,7 +305,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png"group-title="MOVIE",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIE",HBO FAMILY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIE",HBO Hits
@@ -333,7 +333,7 @@ https://tinyurl.com/5yuck29y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="MOVIE",Sony Pix
 http://live.flixhub.net/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png"group-title="MOVIE",&Flix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIE",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://tinyurl.com/4pzwwxpm
 
