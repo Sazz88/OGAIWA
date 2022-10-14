@@ -267,7 +267,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
-#EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE:CHINA",Astro AOD 354 HD
+#EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE CHINA",Astro AOD 354 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 ******************************KARTUN*****************************************
