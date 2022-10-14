@@ -36,11 +36,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="ASTRO", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="ASTRO",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="ASTRO",TV AlHijrah
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="ASTRO",TV AlHijrah
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 
