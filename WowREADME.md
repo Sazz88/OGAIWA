@@ -25,6 +25,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="ASTRO",TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="ASTRO",NTV7
@@ -58,6 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 #EXTINF:-1 tvg-logo="https://iili.io/1NTfv2.png" group-title="ASTRO",TV Ikim
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="ASTRO", TVS 
