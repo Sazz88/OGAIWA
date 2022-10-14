@@ -74,7 +74,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1696000_sleng.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="ASTRO", DRAMA SANGAT HD
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="ASTRO", DRAMA SANGAT 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
@@ -84,7 +84,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO", Astro Awani HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="ASTRO", BERNAMA HD
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="ASTRO", BERNAMA 
 https://www.youtube-nocookie.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="ASTRO",Astro Ria HD
