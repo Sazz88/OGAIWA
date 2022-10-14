@@ -6,7 +6,6 @@
 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="LIVE MALAYSIA", TV1 HD
@@ -14,7 +13,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="LIVE MALAYSIA, TV2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="LIVE MALAYSIA", TV2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 
@@ -102,40 +101,40 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="ASTRO",ASTRO PRIMA HD 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="LIVE MALAYSIA", ASTRO PRIMA HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",ASTRO OASIS HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="LIVE MALAYSIA", ASTRO OASIS HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="LIVE MALAYSIA", Astro Warna HD
 https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCJ_UYfcuE2Np-EKFGzo_og4=148j/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="LIVE MALAYSIA", Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",ASTRO BOLLYONE
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="LIVE MALAYSIA", ASTRO BOLLYONE
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="ASTRO",ABO THANGATHIRAI HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="LIVE INDIA", ABO THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="MOVIE",COLORS (HINDI)
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="LIVE INDIA", COLORS (HINDI)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="ASTRO",Astro Sensasi
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="LIVE MALAYSIA", Astro Sensasi
 
 ******************************KARTUN*****************************************
 
