@@ -135,6 +135,9 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi
 
 ******************************KARTUN*****************************************
 
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ew/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
