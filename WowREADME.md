@@ -842,7 +842,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="LIVE SPORTS", WWE NETWORK
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="LIVE SPORTS", WWE NETWORK HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
@@ -868,7 +868,7 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="LIVE SPORTS",SPOTV 2 HD
+#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="LIVE SPORTS",SPOTV2 HD
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
