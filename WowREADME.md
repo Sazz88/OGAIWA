@@ -70,7 +70,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="ASTRO", TVS HD
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png" group-title="ASTRO", HELLO HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg" group-title="ASTRO", HELLO HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="BRUNEI",RTB (Brunei) 
@@ -85,7 +85,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
-EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="ASTRO",Berita RTM
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="ASTRO",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
@@ -105,7 +105,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Astro_Prima#/media/File%3AAstro_Prima_HD.png" group-title="ASTRO",ASTRO PRIMA HD 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -117,16 +117,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",Astro Warna HD
 https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCJ_UYfcuE2Np-EKFGzo_og4=148j/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO",Astro Citra HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO",Astro Citra HD
-https://nonton.site:8443/blink4/frknnyvc9e/37407
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -152,10 +147,6 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="CARTOON", Astro Ceria HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="CARTOON", Astro Ceria HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="CARTOON", Astro Ceria HD
-https://nonton.site:8443/mustakim/mustakim/37399
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
