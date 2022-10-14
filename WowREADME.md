@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="ASTRO",COLORS (HINDI)
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="MOVIE",COLORS (HINDI)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="ASTRO",Astro Sensasi
@@ -367,7 +367,7 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png"group-title="MOVIE",CCM
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIE",CCM
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
