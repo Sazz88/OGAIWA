@@ -926,7 +926,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
-#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="LIVE LIFESTYLE", DMAX HD
+#EXTINF:-1 tvg-id="Dmax" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="LIVE LIFESTYLE", DMAX HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
