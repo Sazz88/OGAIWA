@@ -601,7 +601,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE MOVIES", BOO
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE MOVIES", BOO HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="LIVE MOVIES", THRILL
