@@ -835,7 +835,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="LIVE SPORTS", BEIN SPORTS 2 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
-#EXTINF:-1, group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN EXTRA HD
+#EXTINF:-1, group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN EXTRA 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
