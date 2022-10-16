@@ -573,12 +573,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="LIVE MOVIES", Oh!K HD
+#EXTINF:-1 tvg-ID="Oh!KHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="LIVE MOVIES", Oh!K HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="LIVE MOVIES", KPlus HD
+#EXTINF:-1 tvg-id="kplushd" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="LIVE MOVIES", KPlus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
@@ -675,11 +675,11 @@ https://tinyurl.com/4pzwwxpm
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://tinyurl.com/5n8ejkpt
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="LIVE MOVIES", Movies Now
+#EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="LIVE MOVIES", Movies Now
 http://live.flixhub.net/hls/movies-now.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="LIVE MOVIES", Mnx
+#EXTINF:-1 tvg-id="mnxhd" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="LIVE MOVIES", Mnx hd
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="LIVE MOVIES", MY Cinema 
@@ -711,7 +711,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/scm.png" group-title="LIVE MOVIES", SCM HD
+#EXTINF:-1 tvg-ID="SCMhd" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/scm.png" group-title="LIVE MOVIES", SCM HD
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171981
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
@@ -727,9 +727,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-ID="CinemaWorldHD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="LIVE MOVIES", CinemaWorld HD
+#EXTINF:-1 tvg-ID="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="LIVE MOVIES", CinemaWorld HD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:-1 tvg-ID="CinemaWorldHD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="LIVE MOVIES", CinemaWorld HD
+#EXTINF:-1 tvg-ID="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="LIVE MOVIES", CinemaWorld HD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 
 ***********************************SERIES************************************
