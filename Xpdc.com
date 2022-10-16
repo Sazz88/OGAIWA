@@ -457,7 +457,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="LIVE JAPAN",NHK WORLD PREMIUM
+#EXTINF:-1 tvg-id="NHKWorldPremium" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="LIVE JAPAN",NHK WORLD HD
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 ******************************KARTUN*****************************************
@@ -578,7 +578,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
-#EXTINF:-1 tvg-id="kplushd" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="LIVE MOVIES", KPlus HD
+#EXTINF:-1 tvg-id="K-Plus" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="LIVE MOVIES", K-Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
