@@ -1039,8 +1039,10 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1 tvg-id="FRANCE24ENGLISH" tvg-logo="http://linear-poster.astro.com.my/prod/logo/France24_v1.png" group-title="LIVE NEWS",FRANCE24
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
 
-#EXTINF:-1 tvg-id="BloombergHD" group-title="LIVE NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg 
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1939316637b563ca2b97bbcf1fb50510&key=02703583fed9403ab38be7f75987fc3d
+#EXTINF:-1 tvg-id="BloombergHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="MuZu | News",BLOOMBERG
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CGTN" group-title="LIVE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
