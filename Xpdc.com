@@ -32,7 +32,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="LIVE MALAYSIA🇲🇾",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA🇲🇾",8TV
+#EXTINF[3]:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA🇲🇾",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="LIVE MALAYSIA🇲🇾", TV9
