@@ -992,7 +992,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=17d5d79b705851bf7fb32a9021d56d10&key=839ae835984e66772b70621dd5d5318b
-#EXTINF:-1 tvg-id="BBCWorldNewsHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="MuZu | News",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="BBCWorldNewsHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="LIVE NEWS",BBC WORLD NEWS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 
 
@@ -1041,7 +1041,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1939316637b563ca2b97bbcf1fb50510&key=02703583fed9403ab38be7f75987fc3d
-#EXTINF:-1 tvg-id="BloombergHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="MuZu | News",BLOOMBERG
+#EXTINF:-1 tvg-id="BloombergHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="LIVE NEWS",BLOOMBERG
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CGTN" group-title="LIVE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
