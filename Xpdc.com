@@ -996,10 +996,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="LIVE NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
-http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="LIVE NEWS",CNA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CNNHD" group-title="LIVE NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
