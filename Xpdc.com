@@ -32,7 +32,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="LIVE MALAYSIA🇲🇾",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA",8TV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA🇲🇾",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="LIVE MALAYSIA🇲🇾", TV9
@@ -59,7 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTVLCOPT:network-caching=1000
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#EXTINF:-1 tvg-logo="https://iili.io/1NTfv2.png" group-title="LIVE MALAYSIA", TV Ikim
+#EXTINF:-1 tvg-logo="https://iili.io/1NTfv2.png" group-title="LIVE MALAYSIA🇲🇾", TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
@@ -230,7 +230,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="LIVE CHINA" tvg-logo="https://img.favpng.com/19/16/23/hunan-television-television-channel-mango-tv-png-favpng-TYsAyMeEQWqMi0035sRDVWzMu.jpg",HUNAN TV HD
+#EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="LIVE CHINA🇨🇳" tvg-logo="https://img.favpng.com/19/16/23/hunan-television-television-channel-mango-tv-png-favpng-TYsAyMeEQWqMi0035sRDVWzMu.jpg",HUNAN TV HD
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
