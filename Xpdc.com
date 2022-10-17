@@ -1027,7 +1027,7 @@ http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cd1850280996e9ced09c72027dfdb10&key=3a1d9a18b0d1ffc99ab259e16b3dc5dc
-#EXTINF:-1 tvg-id="DW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="MuZu | News",DW
+#EXTINF:-1 tvg-id="DW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="LIVE NEWS",DW
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldHD" group-title="LIVE NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK World Japan
