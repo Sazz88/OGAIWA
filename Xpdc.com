@@ -1921,3 +1921,8 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/My.Little.Pony.Equestria.
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://tinyurl.com/229mpwe2",MAKMUM 2
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Makmum2.2021.1080p.WEB-DL.H264.AqFadTV.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqyQy-BL4NTqqWBG8fdG9cJ6l_tqpPfz9hQ&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", The Wolverine
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3phEN_m87bx7z9VHIFdP_LM7leAMbYz2EA&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", Logan
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882731.mkv
