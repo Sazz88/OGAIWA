@@ -280,49 +280,49 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 **********************Thailand*****************************
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="LIVE:LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",5 HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",5 HD
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NBT HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NBT HD
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TPBS HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TPBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",ALTV4 HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",ALTV4 HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TOPNEWS
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NATION
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NATION
 https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",WORKPOINT
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",WORKPOINT
 https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Mix Major
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",CH8
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",CH8
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MONO29
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MONO29
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MCOT HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MCOT HD
 https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",THAIRATH HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",THAIRATH HD
 https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",3 HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",3 HD
 https://freelive2.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",AMARINT HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",AMARINT HD
 https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",7 HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",7 HD
 https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",PPTV HD
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MIX TV
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MIX TV
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Thin Tai The Battle
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Thin Tai The Battle
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV SERIES
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV SERIES
 https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV THAI ESAN TV
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV THAI ESAN TV
 https://edge6a.v2h-cdn.com/appt10/ThaEsan.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Laos
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Laos
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Myanmar
+#EXTINF:-1 tvg-id="" group-title="LIVE THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
 **********************†***Singapore**†**†****************************
