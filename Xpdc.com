@@ -1666,3 +1666,89 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+
+ru-EP20.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVB_IVP_LAND_672x378_202113_13745.jpg",Episod 21
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP21.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVC_IVP_LAND_672x378_202117_163242.jpg",Episod 22
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP22.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVD_IVP_LAND_672x378_202117_163213.jpg",Episod 24
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP24.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVF_IVP_LAND_672x378_202117_163223.jpg",Episod 25
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP25.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVG_IVP_LAND_672x378_2021120_135852.jpg",Episod 26
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP26.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVH_IVP_LAND_672x378_2021120_13592.jpg",Episod 27
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP27.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVI_IVP_LAND_672x378_2021120_135833.jpg",Episod 28
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP28.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVJ_IVP_LAND_672x378_2021120_135843.jpg",Episod 29
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP29.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVK_IVP_LAND_672x378_202128_95232.jpg",Episod 30
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP30.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVL_IVP_LAND_672x378_202128_95310.jpg",Episod 31
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP31.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVM_IVP_LAND_672x378_2021211_175525.jpg",Episod 32
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP32.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVN_IVP_LAND_672x378_2021219_103415.jpg",Episod 33
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP33.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVQ_IVP_LAND_672x378_2021226_12858.jpg",Episod 34
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP34.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVR_IVP_LAND_672x378_2021226_12929.jpg",Episod 35
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP35.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVS_IVP_LAND_672x378_202135_102754.jpg",Episod 36
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP36.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVT_IVP_LAND_672x378_202135_102744.jpg",Episod 37
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP37.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVU_IVP_LAND_672x378_2021312_16590.jpg",Episod 38
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP38.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVV_IVP_LAND_672x378_2021312_165959.jpg",Episod 39
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP39.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVW_IVP_LAND_672x378_2021322_83321.jpg",Episod 40
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP40.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVX_IVP_LAND_672x378_2021322_8345.jpg",Episod 41
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP41.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVY_IVP_LAND_672x378_2021326_222829.jpg",Episod 42
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP42.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVZ_IVP_LAND_672x378_2021326_22291.jpg",Episod 43
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP43.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWA_IVP_LAND_672x378_202142_174912.jpg",Episod 44
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP44.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWD_IVP_LAND_672x378_202149_18114.jpg",Episod 45
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP45.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru//IVP(STB_OTT_STV)_JMUWE_IVP_LAND_672x378_2021416_142855.jpg",Episod 46
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP46.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWF_IVP_LAND_672x378_2021416_142858.jpg",Episod 47
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP47.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWG_IVP_LAND_672x378_2021423_15369.jpg",Episod 48
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP48.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWH_IVP_LAND_672x378_2021423_153612.jpg",Episod 49
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP49.mp4&raw=true&type=file.mp4
