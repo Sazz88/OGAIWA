@@ -278,6 +278,53 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 #EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE CHINA🇨🇳",Astro AOD 354 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
+**********************Thailand*****************************
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="LIVE:LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",5 HD
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:LIVE THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NBT HD
+https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8 
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",ALTV4 HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NATION
+https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",WORKPOINT
+https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MONO29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MCOT HD
+https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",THAIRATH HD
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",3 HD
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",AMARINT HD
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",7 HD
+https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",PPTV HD
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MIX TV
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",Thin Tai The Battle
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV THAI ESAN TV
+https://edge6a.v2h-cdn.com/appt10/ThaEsan.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIVE:THAILAND🇹🇭"" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",MVTV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+
 **********************†***Singapore**†**†****************************
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -939,34 +986,14 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 <<<<<<<<<<<<<<<<<<<<<<EDUCATION>>>>>>>>>>>>>>>>>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=006482b5d028cea9803e89daf599a810&key=cf5be288741818ab252dba02533764be
-#EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV SK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98520edaa7e795491384e42e096cb210&key=5c6d29c59356da04814e0218f8a63800
-#EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV SK
+#EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="LIVE EDUCATION",ASTRO TUTOR TV SK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a778dba8725013f6f3ceea5f4025110&key=ae73ac1806eca1119473db3515ff4d60
-#EXTINF:-1 tvg-id="602" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV PT3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa16cabfc85efa0805355cebbea9ed10&key=5cb8814069cfdcbd4f3a50fb025ea585
-#EXTINF:-1 tvg-id="603" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SPM_v1.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV SPM
-https://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19a1cf0746cab453b5209892ddbf0010&key=42fb52739bf87e74dbdc872c492191b5
-#EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV SMK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c2ddae69c761e9fdda60d8e71763b10&key=652cbc3c9528f236655473ef8240bb6c
-#EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="LIVE EDUCATION", ASTRO TUTOR TV SMK
-@@ -5929,11 +5890,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+#EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="LIVE EDUCATION",ASTRO TUTOR TV SMK
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 <<<<<<<<<<<<<<<<<<LIVESTYLE>>>>>>>>>>>>>>>>>>>>
 
