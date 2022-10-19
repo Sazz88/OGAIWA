@@ -1532,3 +1532,4 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+
