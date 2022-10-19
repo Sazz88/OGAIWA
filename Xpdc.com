@@ -11,40 +11,40 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
-#EXTINF:-1 tvg-id="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="LIVE MALAYSIA🇲🇾", 1.TV1 HD
+#EXTINF:-1 tvg-id="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="LIVE MALAYSIA🇲🇾", TV1 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
-#EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="LIVE MALAYSIA🇲🇾", 2.TV2 HD
+#EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="LIVE MALAYSIA🇲🇾", TV2 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="LIVE MALAYSIA🇲🇾", 3.TV3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="LIVE MALAYSIA🇲🇾", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="LIVE MALAYSIA🇲🇾",4.TV6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="LIVE MALAYSIA🇲🇾", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ntv7" tvg-logo="https://didik.tv/images/logotv2.png" group-title="LIVE MALAYSIA🇲🇾", 5.NTV7
+#EXTINF:-1 tvg-id="ntv7" tvg-logo="https://didik.tv/images/logotv2.png" group-title="LIVE MALAYSIA🇲🇾", NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA🇲🇾", 6.8TV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="LIVE MALAYSIA🇲🇾", 8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="LIVE MALAYSIA🇲🇾", 7.TV9
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="LIVE MALAYSIA🇲🇾", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="LIVE MALAYSIA🇲🇾", 8.Al-Hijrah
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="LIVE MALAYSIA🇲🇾", Al-Hijrah
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="LIVE MALAYSIA🇲🇾", 9.TV Okey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="LIVE MALAYSIA🇲🇾", TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
@@ -52,21 +52,21 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
-#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="LIVE MALAYSIA🇲🇾", 10.Awesome TV
+#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="LIVE MALAYSIA🇲🇾", Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300" group-title="LIVE SINGAPORE🇸🇬", Suke TV
 #EXTVLCOPT:network-caching=1000
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#EXTINF:-1 tvg-logo="https://iili.io/1NTfv2.png" group-title="LIVE MALAYSIA🇲🇾", 11.TV Ikim
+#EXTINF:-1 tvg-logo="https://iili.io/1NTfv2.png" group-title="LIVE MALAYSIA🇲🇾", TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="LIVE MALAYSIA🇲🇾", 12.TVS 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="LIVE MALAYSIA🇲🇾", TVS 
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg" group-title="LIVE MALAYSIA🇲🇾", 13.HELLO HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg" group-title="LIVE MALAYSIA🇲🇾", HELLO HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="LIVE BRUNEI🇧🇳", RTB (Brunei) 
@@ -77,7 +77,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1696000_sleng.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="LIVE MALAYSIA🇲🇾", 14.DRAMA SANGAT 
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="LIVE MALAYSIA🇲🇾", DRAMA SANGAT 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
@@ -94,7 +94,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="LIVE NEWS", BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="LIVE MALAYSIA🇲🇾", 15.Astro Ria HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="LIVE MALAYSIA🇲🇾", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -103,22 +103,22 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="LIVE MALAYSIA🇲🇾", 16.ASTRO PRIMA HD 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="LIVE MALAYSIA🇲🇾", ASTRO PRIMA HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="LIVE MALAYSIA🇲🇾", 17.ASTRO OASIS HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="LIVE MALAYSIA🇲🇾", ASTRO OASIS HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="LIVE MALAYSIA🇲🇾", 19.Astro Warna HD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="LIVE MALAYSIA🇲🇾", Astro Warna HD
 https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCJ_UYfcuE2Np-EKFGzo_og4=148j/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="LIVE MALAYSIA🇲🇾", 18.Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="LIVE MALAYSIA🇲🇾", Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 <<<<<<<<<<<<<<<<<<<INDIA>>>>>>>>>>>>>>>>>>>>>>
