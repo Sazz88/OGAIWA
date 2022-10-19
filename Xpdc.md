@@ -1699,7 +1699,7 @@ https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://tinyurl.com/349hun5p",RENJANA
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
 
-#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://drive.google.com/file/d/17-TymFO0B5tUGF2vI6RXJ3AtYuYSiggR/view?usp=drivesdk",Jaga-Jaga Senariounion
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzeXR8cfmN5aA3anms-oM7LtQaaO8yDg4lvn4yHYWF59o1xsVTAYdEapZ4L4nRr2HoRi1wLFekoCNkmZMcrXuApfNLQOJ-4-N8OSnCOfYGwjkTOevH0pFBmgOwqomcIMMnRvEoOEx2c2dpqNuVZomR3RTAhdtXmlj8F1Z3BDy3jpRZqhgBLAqsHSxW0A/s16000/Jaga-Jaga%20Senariounion.webp", Jaga-Jaga Senariounion
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Jaga-Jaga.Senariounion.2022.1080p.WEBDL-NOGRP.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First-The Disappearance of Irdina Adhwa
