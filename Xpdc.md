@@ -1696,7 +1696,7 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLgs-UqnUrUOWBWhKE4H9T4uu9l6YYDKl667MSZWdY_jvIVbL_c24W5KvW-FVVobDLQI29LU6MofmU4Aa2RHlscy04D3853v5rAO6sls4_hGQqT-MZAARL3YEjhJMV3Vch8ziKK794Tw4IPlW3m5uXhBAf2EQRnwhmSCh4mCC7VydLvoNTW694-0Rt0w/w0/35mm.jpg",35mm
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 
-#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://tinyurl.com/349hun5p",RENJANA
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhOQsztbdkltoZ7bZ8AXbRWe5UJvHTeJPxKaIAJ2P3O71crXcTSeu-NxgUBrN8qXcEB7ijBcGLwasgpoW_kD8CkLeGGwS0ArHtt0Bfu53kEv5yxoKNnsd1kHiWY154qx3mquG0Ape8mHgqE58wiolVmio1GRyZf3uWZMhrECIRVsrGlgp1MfI4s2nzS1w=w0",RENJANA
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzeXR8cfmN5aA3anms-oM7LtQaaO8yDg4lvn4yHYWF59o1xsVTAYdEapZ4L4nRr2HoRi1wLFekoCNkmZMcrXuApfNLQOJ-4-N8OSnCOfYGwjkTOevH0pFBmgOwqomcIMMnRvEoOEx2c2dpqNuVZomR3RTAhdtXmlj8F1Z3BDy3jpRZqhgBLAqsHSxW0A/s16000/Jaga-Jaga%20Senariounion.webp", Jaga-Jaga Senariounion
