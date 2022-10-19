@@ -1533,6 +1533,24 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buangggghhhhhhhhhhggg
+
+
 .my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3384,18 +3402,3 @@ https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://tinyurl.com/349hun5p",RENJANA
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
-
-#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://tinyurl.com/278vfw5y",Jaga-jaga senariounion
-https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Jaga-Jaga.Senariounion.2022.1080p.WEBDL-NOGRP.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://tinyurl.com/wnhymyft",My Little Pony Equestria Girls Forgotten
-https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/My.Little.Pony.Equestria.Girls.Forgotten.Friendship.2018.720p.NF.WEB-DL.DDP5.1.H264-iFT.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://tinyurl.com/229mpwe2",MAKMUM 2
-https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Makmum2.2021.1080p.WEB-DL.H264.AqFadTV.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqyQy-BL4NTqqWBG8fdG9cJ6l_tqpPfz9hQ&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", The Wolverine
-http://www.deadlyblogger.com/movie/EmmaCece/yZQYc8Rt/882731.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3phEN_m87bx7z9VHIFdP_LM7leAMbYz2EA&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", Logan
-http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882731.mkv
