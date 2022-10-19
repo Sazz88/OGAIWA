@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-# url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg"
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
