@@ -1702,44 +1702,9 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WE
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzeXR8cfmN5aA3anms-oM7LtQaaO8yDg4lvn4yHYWF59o1xsVTAYdEapZ4L4nRr2HoRi1wLFekoCNkmZMcrXuApfNLQOJ-4-N8OSnCOfYGwjkTOevH0pFBmgOwqomcIMMnRvEoOEx2c2dpqNuVZomR3RTAhdtXmlj8F1Z3BDy3jpRZqhgBLAqsHSxW0A/s16000/Jaga-Jaga%20Senariounion.webp", Jaga-Jaga Senariounion
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Jaga-Jaga.Senariounion.2022.1080p.WEBDL-NOGRP.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First-The Disappearance of Irdina Adhwa
-http://axcestv.vip:8080/freeview/axcestv/487
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWVlOTYzYWYtMDkwMy00YjhhLWJhNGQtMmZmN2FlMGUzNTI5XkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg", Gila Gusti
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBDL.NOGRP.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Gila Gusti
-http://axcestv.vip:8080/freeview/axcestv/488
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhtRhMxcwYXgGu_VJ7npHUUPMhxMfa-FiwYGSEh2aazUPs1UmKWt6uwHGh5pvA8nKhd2wVoxN3_60sxDkJvnAF53NHl-caFWnR8neiAV9_QpIl-OG-bscOyPnhmXKOpy3jZzj1JnFgnV5QYtWyMw2_7Z3gbTM_ZsJmAOsohJX6BBpRMBYH9YlIzIHXV_w=w680", Gracias Barcelona
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gracias.Barcelona.2022.1080p.WEB-DL-ms.en-PENCURiMOViE.ONE.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Autumn In Wales
-http://axcestv.vip:8080/freeview/axcestv/489
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Renjana
-http://axcestv.vip:8080/freeview/axcestv/490
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Kabus
-http://axcestv.vip:8080/freeview/axcestv/491
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Kedai Antik Wak Jambi
-http://axcestv.vip:8080/freeview/axcestv/492
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/freeview/axcestv/493
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/freeview/axcestv/494
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/freeview/axcestv/495
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/freeview/axcestv/496
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First- Serangan Pocong
-http://axcestv.vip:8080/freeview/axcestv/497
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/freeview/axcestv/498
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/freeview/axcestv/499
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="MuZu | Astro First",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/freeview/axcestv/500
