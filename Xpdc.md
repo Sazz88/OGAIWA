@@ -1708,3 +1708,11 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBD
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhtRhMxcwYXgGu_VJ7npHUUPMhxMfa-FiwYGSEh2aazUPs1UmKWt6uwHGh5pvA8nKhd2wVoxN3_60sxDkJvnAF53NHl-caFWnR8neiAV9_QpIl-OG-bscOyPnhmXKOpy3jZzj1JnFgnV5QYtWyMw2_7Z3gbTM_ZsJmAOsohJX6BBpRMBYH9YlIzIHXV_w=w680", Gracias Barcelona
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gracias.Barcelona.2022.1080p.WEB-DL-ms.en-PENCURiMOViE.ONE.mkv
 
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Kampong Pisang Berbuah Dua Kali
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxNDYwOTUtNTQzMC00YTk2LWEwNzAtN2RmNDAxZjhhY2IwXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Siapa Tutup Lampu
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://i.postimg.cc/N0h2bLyn/BM-On-Your-Mark-Poster.png", On Your Mark
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/On.Your.Mark.2021.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mkv
