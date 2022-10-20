@@ -1792,3 +1792,22 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.th
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://media.karousell.com/media/photos/products/2022/4/29/spiderman_no_way_home_2021_blu_1651272002_72f16040_progressive", Spider-Man No Way Home 2022 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Spider-Man.No.Way.Home.2022/Spider-Man.No.Way.Home.2022.1080p.Bluray.DTS-HD.MA.5.1.X264-EVO%5BTGx%5DEVO.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", The Adam Project 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Adam.Project.2022/The.Adam.Project.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg", The Batman 2022(1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%5BTGx%5D.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg", The Batman 2022(2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg", The King's Man 2021(2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg", The King's Man 2021(1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.DDP5.1.DHM.WEB-DL.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_FMjpg_UX1000_.jpg", J2.J Retribusi 2021(1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/J2.J.Retribusi.2021.1080p.V2.WEB-DL-ms.en-PENCURiMOViE.SPACE.mkv.mp4
+
