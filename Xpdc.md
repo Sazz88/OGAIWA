@@ -1734,7 +1734,7 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Olympic.Dream.2021.1080p.WE
 
 #####################****MOVIE-VOD*****#####################
 
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA0Y2UyM2MtYzY4My00MDI2LWEwYWUtN2MwZGVhMzBiZmFhXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Doctor Strange in The Multiverse of Madness 2022
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg", Doctor Strange in The Multiverse of Madness 2022
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
