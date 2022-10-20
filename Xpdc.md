@@ -36,7 +36,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png" group-title="LIVE MALAYSIA🇲🇾", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+# https://aqfadtv.astradamy.com/stream/TV9.php
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
@@ -91,7 +92,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="LIVE MALAYSIA🇲🇾", Astro Warna HD
-https://linears-playback.astro.com.my/vsg/41acsoU5tHim2XqkqixVajCJ_UYfcuE2Np-EKFGzo_og4=148j/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#https://links.aqfadtv.xyz/warna.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="LIVE MALAYSIA🇲🇾", Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
