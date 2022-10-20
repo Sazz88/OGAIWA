@@ -1693,6 +1693,8 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 
+#####################MOVIE-ASTRO FIRST#####################
+
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLgs-UqnUrUOWBWhKE4H9T4uu9l6YYDKl667MSZWdY_jvIVbL_c24W5KvW-FVVobDLQI29LU6MofmU4Aa2RHlscy04D3853v5rAO6sls4_hGQqT-MZAARL3YEjhJMV3Vch8ziKK794Tw4IPlW3m5uXhBAf2EQRnwhmSCh4mCC7VydLvoNTW694-0Rt0w/w0/35mm.jpg",35mm
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 
@@ -1720,5 +1722,32 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/On.Your.Mark.2021.1080p.S
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1NTNkOGUtODFjMy00YWIxLWFjNGEtNWI5MGNlMDg3OGI0XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_FMjpg_UX1000_.jpg", Proksi
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Proksi.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4
 
-#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau
-https://multiup.org/download/b72d72fd407e7c2727e1c0f75b5b3bb5/Mat.Kilau.2022.NF.720p.WEB-DL.sub.ms.eng.ind.H264-PENCURiMOViE.QUEST.mkv
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI3ZjNiNmYtYWIwMy00NWU4LThlNDUtYjhlYWUzODM2YTliXkEyXkFqcGdeQXVyMTE5NjIyMDU1._V1_.jpg", Penunggang Agama
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJiOGQyNTItNzY4Yi00NmQ1LTk3ZDctM2MyZjc5OTlmYmIwXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg", Penunggang Agama 2
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://1.bp.blogspot.com/-KHuHx5cuDYs/YYJNf1AmvwI/AAAAAAAAMhc/geYxX1DbnBokLaiYbNHAymQdmTFl4f_-wCLcBGAsYHQ/w0/Khaenak%2BSerangan%2BPocong.webp", Khaenak Serangan Pochong
+https://onedrive.astradamy.com/api/raw/?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA0Y2UyM2MtYzY4My00MDI2LWEwYWUtN2MwZGVhMzBiZmFhXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Olympic Dream
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Olympic.Dream.2021.1080p.WEB-DL-ms.en.zh-PENCURiMOViE.CYOU.mkv
+
+#####################****MOVIE-VOD*****#####################
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA0Y2UyM2MtYzY4My00MDI2LWEwYWUtN2MwZGVhMzBiZmFhXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Doctor Strange in The Multiverse of Madness 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_FMjpg_UX1000_.jpg", Fantastic Beasts The Secrets of Dumbledore 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg", Fast and Furious F9 The Fast Saga 2021
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
+
+
+
+
