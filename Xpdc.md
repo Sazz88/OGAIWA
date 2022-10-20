@@ -1748,6 +1748,30 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Fantastic.Beasts.The.Secret
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg", Fast and Furious F9 The Fast Saga 2021
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiOWJlYzItNjg2Ny00MTA1LTg0ODAtMzQzYWU1NDU2NmUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Godzilla vs Kong 2021 1080p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzilla.vs.Kong.2021.1080p.BrRip-ms.en.id-PENCURiMOViE.CYOU.mkv.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiOWJlYzItNjg2Ny00MTA1LTg0ODAtMzQzYWU1NDU2NmUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Godzilla vs Kong 2021 2160p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzilla.vs.Kong.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpg", Home Sweet Home Alone 2021 1080p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpg", Home Sweet Home Alone 2021 2160p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.2160p.DSNP.WEB-DL.DDP5.1.Atmos.HDR.HEVC-EVO%5BTGx%5D.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg", Makmum 2019 1080p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2019.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IyOWU4ZjgtNzdjOC00ZDRkLTk2ZmYtYWFlNzdlY2I0ZGRlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Makmum 2 2021 1080p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2.2021.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg", Eternals 2021 2160p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Marvel's.Eternals.2021/%5BHR%5D.Eternals.(2021).IMAX.%5BDSN%2B.4K.UHD.HDR.HEVC.Atmos%5D~HR-DR.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg", Eternals 2021 1080p
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv
+
 
 
 
