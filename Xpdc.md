@@ -775,13 +775,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 *********************Entertainment************
 
+#EXTINF:-1 tvg-id="HITSHD" group-title="LIVE ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="LIVE ENTERTAIMENT", Hits HD
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="LIVE ENTERTAIMENT", Hits HD
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -809,10 +805,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="LIVE ENTERTAIMENT", AXN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 tvg-id="KIXHD" group-title="ENTERTAINMENT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png",KIX 
+#EXTINF:-1 tvg-id="KIXHD" group-title="LIVE ENTERTAINMENT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png",KIX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
 **********************************SPORTS***********************************************************************************************************
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="LIVE SPORTS", RTM Sports HD
