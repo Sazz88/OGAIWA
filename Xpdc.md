@@ -1128,16 +1128,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="LIVE DOCUMENTARIES",BBC EARTH
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="NationalGeographicWildAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png", NAT GEO WILD HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="NationalGeographicAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",NATIONAL GEOGRAPHIC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
+#EXTINF:-1 tvg-id="551" tvg-logo="http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="LIVE DOCUMENTARIES",NATIONAL GEOGRAPHIC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
+#EXTINF:-1 tvg-id="550" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="LIVE DOCUMENTARIES",NAT GEO WILD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
 #EXTINF:-1 tvg-id="552" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="LIVE DOCUMENTARIES",DISCOVERY
@@ -1153,9 +1152,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 #EXTINF:-1 tvg-ID="HistoryAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",HISTORY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="CrimePlusInvestigationAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_207.jpg",CRIME INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b73add6f0c8f2f01ad2029f8b19fa310&key=799dabe972f9c41a25ba37daa73a5fe5
+#EXTINF:-1 tvg-id="714" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="LIVE DOCUMENTARIES", CRIME INVESTIGATION
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
