@@ -680,9 +680,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="LIVE MOVIES", SHOWCASE MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-ID="Primetime" tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png" group-title="LIVE MOVIES", Primetime
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9escLrvgZ92S18WxRwA3rI/m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="LIVE MOVIES", HBO
@@ -782,6 +779,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-ID="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="LIVE MOVIES", CinemaWorld HD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
+#EXTINF:-1 tvg-id="718" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="MuZu | Variety",MTV ASIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 ***********************************SERIES************************************
 
@@ -1119,6 +1121,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 #EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="LIVE DOCUMENTARIES", ANIMAL PLANET HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8b132be22fca4d1538e2cfa009f08a10&key=d0a2208f3d5a556f831ad4de9fe7e31c
+#EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="LIVE DOCUMENTARIES",BBC EARTH
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="NationalGeographicWildAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png", NAT GEO WILD HD
@@ -1134,20 +1141,15 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",DISCOVERY CHANNEL HD
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e5ac299099f8bd93d1cc5a96180d7810&key=6d931bb991f70059daba1d552f2b4427
+#EXTINF:-1 tvg-id="Discoveryasia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="LIVE DOCUMENTARIES",DISCOVERY ASIA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="HistoryAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="AnimalPlanetSoutheastAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png", ANIMAL PLANET HD
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="HGTVAsia.us" group-title="LIVE DOCUMENTARIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_451.png",HGTV HD
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
