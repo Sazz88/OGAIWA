@@ -263,9 +263,9 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 **********************Thailand*****************************
 
-#EXTINF:-1 tvg-id=""group-title="Thailand🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",5 HD
+#EXTINF:-1 tvg-id="" group-title="Thailand🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",5 HD
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-#EXTINF:-1 tvg-id=""group-title="Thailand🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NBT HD
+#EXTINF:-1 tvg-id="" group-title="Thailand🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",NBT HD
 https://freelive2.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thailand🇹🇭" tvg-logo="https://thailandtv.tv/wp-content/uploads/2022/03/thaitv_logo_ady_800_stroke.png",TPBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8 
