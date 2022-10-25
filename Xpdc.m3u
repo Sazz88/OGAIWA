@@ -1033,7 +1033,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="News", BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia
+#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
 http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
