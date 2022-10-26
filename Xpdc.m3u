@@ -883,7 +883,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="Sports", ASTRO SUPERSPORT HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="Sports",ASTRO SUPERSPORT 2 HD 
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="Sports",ASTRO SUPERSPORT 2 HD 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
@@ -893,7 +893,7 @@ https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="Sports", ASTRO SUPERSPORT 2 HD (B)
 https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OjHB2m4-kV-t2RogFmGH3uw=UDkr/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Sports", ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="Sports", ASTRO SUPERSPORT 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
@@ -903,7 +903,7 @@ https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="Sports", ASTRO SUPERSPORT 3 HD (B)
 https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgvj6Rbf612ONl7dtOfsAT8w=SbGF/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Sports", ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="Sports", ASTRO SUPERSPORT 4 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
