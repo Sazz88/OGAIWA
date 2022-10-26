@@ -1044,12 +1044,12 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Sports", ASTRO ARENA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="Sports", ASTRO ARENA HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports", ASTRO ARENA 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="Sports", ASTRO ARENA 2 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1411,7 +1411,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #EXTINF:-1 tvg-ID="FMN.id" group-title="Documentaries" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="Documentaries", Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Documentaries", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 <<<<<<<<<<<<<<<<<<<<RADIO>>>>>>>>>>>>>>>>>>>>>>>
