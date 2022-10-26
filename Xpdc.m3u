@@ -96,7 +96,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://aqfadtv.xyz/live/warna/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia🇲🇾", Astro Warna HD (B)
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png" group-title="Malaysia🇲🇾",ASTRO WARNA
 http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -104,8 +104,7 @@ http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia🇲🇾", Astro Citra HD
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9G0cd_W6InoeDR8eH9UdNnY=CirM/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia🇲🇾", Astro Citra HD (B)
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia🇲🇾", ASTRO CITRA
 http://streamz.us:2082/live/J1528/Aa1234/27.m3u8
 
 #####№###############Brunei##################
