@@ -75,7 +75,7 @@ https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pYWCPCet4zTbdDQOz
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAYSIA🇲🇾", Astro Ria HD
-https://www.tvmalaysia.xyz/2021/06/ria.m3u
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/160/video-cif-stream-6-150016131777478.m4f
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
