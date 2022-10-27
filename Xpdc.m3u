@@ -30,10 +30,10 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA🇲🇾", DIDIK TV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSkkStv3tvYDiEX3vq_tcUL3A65HSn1E9Yx5l9zyhOkn)/dm/3/x6qp6ou/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MALAYSIA🇲🇾", 8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV8DvJQ2mBNL9mf9EJmo6vC7wXndjZ3n9ToQIJWumBDO)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHftfWT3trsC07gZYvwGgBd3KNO_42Q3d9Ay56NEjS54Z)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
@@ -66,8 +66,7 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
 
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MALAYSIA🇲🇾", DRAMA SANGAT 
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pYWCPCet4zTbdDQOz2hBzSlP25WkPkxuvC21dOZTPFk)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="MALAYSIA🇲🇾", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
