@@ -96,16 +96,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="astrowarnahd" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="MALAYSIA🇲🇾", Astro Warna HD
-#https://links.aqfadtv.xyz/warna.mpd
 https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="Astrowarnahd" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
 http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
 
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA🇲🇾",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MALAYSIA🇲🇾", Astro Citra HD
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9G0cd_W6InoeDR8eH9UdNnY=CirM/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/citra.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA🇲🇾", ASTRO CITRA
 http://streamz.us:2082/live/J1528/Aa1234/27.m3u8
