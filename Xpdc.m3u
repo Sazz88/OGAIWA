@@ -1104,17 +1104,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sports", BEIN SPORTS 
+#EXTINF:-1 tvg-name="bein sports 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sports", BEIN SPORTS 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-name="bein sports" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", BEIN SPORTS (BACKUP)
+#EXTINF:-1 tvg-name="bein sports 1" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", BEIN SPORTS (BACKUP)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports", BEIN SPORTS 2 
+#EXTINF:-1 tvg-name="bein sports 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports", BEIN SPORTS 2 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1132,7 +1132,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #EXTINF:-1 tvg-name="bein sports 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports", BEIN SPORTS 3 HD (BACKUP)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd 
 
-#EXTINF:-1, group-title="Sports" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN EXTRA 
+#EXTINF:-1 tvg-name="bein sports xtra" group-title="Sports" tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN SPORTS EXTRA 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/New_era_F1_logo.svg.png" group-title="Sports", FORMULA 1
