@@ -74,7 +74,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA🇲🇾", DRAMA SANGAT 
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rSx6MgpuWyAdkxuaFT0TXa40gOy7zyf-307UU0VmoTA)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA🇲🇾", ASTRO RIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
