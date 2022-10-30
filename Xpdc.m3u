@@ -1095,8 +1095,8 @@ https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OpVFmBGKcm1DjvO
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3 
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgmsFQKofGQm8skWuaiky-7Q=2F0Z/dash-wv/jitp-linearwm/2701/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3  
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTggt2GmzZuAUa9y51PBzjNZQ=ov75/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3 (BACKUP)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1105,8 +1105,8 @@ https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|ExoPlayerLib/2.1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4 
-https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ57ACfxfSirl4pWKj8gwjdw=two4/dash-wv/jitp-linearwm/2506/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4  
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ033hhvMbZfkaUcgD1_XI0k=uHs5/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4 (BACKUP)
 #KODIPROP:inputstream=inputstream.adaptive
