@@ -109,6 +109,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA🇲🇾", ASTRO WARNA
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9KVdcE_Ey4jJaEdgLnu0CuQ=x9c8/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pw62TYzwjB8QcwXsRpkMNg=GETo/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
