@@ -44,11 +44,12 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeTf9PSE3N5xTkp8zx
 #EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOHpSzITcvNi7LPKoioaJ_6AQL63Q)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ2Xq8J9Nji0h82uexGRKA990NeGZ2gPPHhdqRgOLMKL)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9 (BACKUP)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOHpSzITcvNi7LPKoioaJ_6AQL63Q)/dm/3/x6qqja6/s/live-3.m3u8
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOHpSzITcvNi7LPKoioaJ_6AQL63Q)/dm/3/x6qqja6/s/stream-3-1667094836.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MALAYSIA🇲🇾", Al-HIJRAH
