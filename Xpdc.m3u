@@ -58,7 +58,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOH
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOHpSzITcvNi7LPKoioaJ_6AQL63Q)/dm/3/x6qqja6/s/stream-3-1667094836.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MALAYSIA🇲🇾", Al-HIJRAH
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
@@ -70,7 +70,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
+#KODIPROP:inputstream.adaptive.license_key=0a4fb03a7f0b51c6264b70203ebcde10:abf3210c7882b3838b66e256d3d72840
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA🇲🇾", AWESOME TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
@@ -113,11 +113,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA🇲🇾", ASTRO WARNA
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9KVdcE_Ey4jJaEdgLnu0CuQ=x9c8/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pw62TYzwjB8QcwXsRpkMNg=GETo/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
@@ -127,8 +127,7 @@ https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #https://links.aqfadtv.xyz/citra.mpd
 https://aqfadtv.xyz/live/citra/index.mpd
 
