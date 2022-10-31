@@ -18,7 +18,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/169/default_primary.
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
 #EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA🇲🇾", TV2 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/169/video-cif-stream-6-150046357066396.m4f
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
