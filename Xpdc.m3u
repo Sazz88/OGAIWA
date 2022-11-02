@@ -45,10 +45,10 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHa31FIGbC63R-eGiG4
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeTf9PSE3N5xTkp8zxY5GHe09T-6NPVZEdmavfM-OBlf)/dm/3/x6qud17/s/live-3.m3u8
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeTf9PSE3N5xTkp8zxY5GHe09T-6NPVZEdmavfM-OBlf)/dm/3/x6qud17/s/stream-3-1667094893.ts
 
-#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9 refresh="3600
+#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://i.imgur.com/smKCnNj.png",TV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZr-q57p3-douY1lRRxDniWRpm4SPUQ42Kv67o8yehsT)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZr-q57p3-douY1lRRxDniWRpm4SPUQ42Kv67o8yehsT)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1 refresh="3600
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9 (BACKUP)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRGvWWU7cLAJcFkWOHpSzITcvNi7LPKoioaJ_6AQL63Q)/dm/3/x6qqja6/s/live-3.m3u8
