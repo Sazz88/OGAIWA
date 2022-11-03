@@ -8,6 +8,18 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://aqfadtv.xyz/epg, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 
 ****************Malaysia***************
+#EXTINF:-1 ,HBO HD
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+#EXTINF:-1 ,CNN
+http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 ,韩国KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8?blog.ntnas.top#http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8?blog.ntnas.top
+#EXTINF:-1 ,PersianaDocumentary
+http://51.210.199.23/hls/stream.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?blog.ntnas.top
+#EXTINF:-1 ,地理野生
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?blog.ntnas.top
 
 #EXTM3U
 #EXTINF:-1 ,天映频道
