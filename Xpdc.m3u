@@ -34,7 +34,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA🇲🇾", DIDIK TV KPM
-http://51.79.82.208:16004
+http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8qDhrbLBBoP3oP34Xslq7g/m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
