@@ -9,6 +9,11 @@
 
 ****************Malaysia***************
 
+#EXTINF:-1 ,Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8?blog.ntnas.top
+#EXTINF:-1 ,Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8?blog.ntnas.top
+
 #EXTINF:-1,NHK World
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?blog.ntnas.top
 #KODIPROP:inputstream.adaptive.license_type=clearkey
