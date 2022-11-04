@@ -10,10 +10,7 @@
 ****************Malaysia*****************
 
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png", Awesomeee
-https://rr4---sn-30a7ynl7.c.drive.google.com/videoplayback?expire=1667560026&ei=GrpkY772FYnoNt6zk3g&ip=2001:e68:5473:23c8:541c:237:30eb:8be2&cp=QVRLWUZfT1BQR1hPOmEyTWkzUmV0TGliWDNGXzl6UWdMYnVZbUNqZF9vVWxGWTZDWmJGUXljYUM&id=f9ae4b48f3842a7c&itag=18&source=webdrive&requiressl=yes&mh=9x&mm=32&mn=sn-30a7ynl7&ms=su&mv=m&mvi=4&pl=52&ttl=transient&susc=dr&driveid=13BMogHbUUSe5E5eTfxogg3uvAowxEiUj&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=10.054&lmt=1667493016760974&mt=1667545262&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgfECQIaZ8yMpnHK_GUA_dvzvQ-uNpVCQLOdU5nfq9wsoCIGzf97XqGYfsS-KpXiInhVrrmTv4dCzE2nylgMZOAGUx&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgZUb8pra92rA8WrIvcXWkpU5-Hpd-PmRvuqG6qjPvhBECIQCgM4904s6IwyaCPD3Gigm7yeiwFTmXhEruDMI4kHa8Tw==&cpn=JakZsmjnUT-d0VWk&c=WEB_EMBEDDED_PLAYER&cver=1.20221030.00.00
-
-
-
+https://drive.google.com/file/d/13BMogHbUUSe5E5eTfxogg3uvAowxEiUj/view
 
 #EXTINF:-1 ,HBO HD
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
