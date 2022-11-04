@@ -1235,7 +1235,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
