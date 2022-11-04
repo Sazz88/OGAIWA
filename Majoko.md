@@ -9,7 +9,7 @@
 
 ****************Malaysia***************
 #EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png", huhu
-https://drive.google.com/file/d/13BMogHbUUSe5E5eTfxogg3uvAowxEiUj/view?usp=drivesdk
+https://drive.google.com/file/d/13BMogHbUUSe5E5eTfxogg3uvAowxEiUj/view
 
 
 #EXTINF:-1 ,HBO HD
