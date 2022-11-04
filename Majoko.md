@@ -9,7 +9,7 @@
 
 ****************Malaysia******************
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png", Awesomeee
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="MALAYSIA🇲🇾",Welcome to Istiqomah Shop
 https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -101,6 +101,8 @@ https://aqfadtv.xyz/live/citra/index.mpd
 
 
 #####№###############Brunei##################
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="BRUNEI🇧🇳",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="BRUNEI🇧🇳", RTB (Brunei) 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -111,6 +113,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 **********************†***Singapore**†**†****************************
 
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="SINGAPORE🇸🇬",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #EXTINF:3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300" group-title="SINGAPORE🇸🇬", Suke TV
 #EXTVLCOPT:network-caching=1000
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
@@ -140,7 +144,8 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 ******************************INDONESIA***************************†******
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="INDONESIA🇲🇨",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #EXTINF:-1 tvg-id="AstroRania" group-title="INDONESIA🇲🇨" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
@@ -264,7 +269,8 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 **********************Thailand*****************************
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="THAILAND🇹🇭,Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND🇹🇭",ALTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
@@ -444,7 +450,8 @@ https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 
 
 <<<<<<<<<<<<<<<<<<<INDIA>>>>>>>>>>>>>>>>>>>>>>
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="INDIA🇮🇳",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="INDIA🇮🇳",Star Vijay HD
@@ -498,6 +505,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 
 <<<<<<<<<<<≤<<<<<<<<<<<<<<<<<<<CHINA>>≥>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="CHINA🇰🇷",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="CHINA🇨🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -600,7 +609,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 ***********************KOREA*********†*************
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="KOREA🇰🇷",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
 #EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA🇰🇷",KBS WORLD
@@ -657,7 +667,8 @@ https://tinyurl.com/TiviMe-CJENM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
 
 ***********************************JAPAN*********†****
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="JAPAN🇯🇵", Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHKWorldPremium" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="JAPAN🇯🇵",NHK WORLD HD
@@ -675,7 +686,8 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 -----------ISLAMIC--------------
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="ISLAMIC",Welcome to Istiqomah Shop
+https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/Xt3FzCr/HKI.png",Quran TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
