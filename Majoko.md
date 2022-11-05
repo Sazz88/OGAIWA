@@ -9,7 +9,7 @@
 
 ****************Malaysia*******************
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="WELCOME TO ISTIQOMAH SHOP😊",Welcome to Istiqomah Shop (Sila Tunggu 10saat)
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="WELCOME TO ISTIQOMAH SHOP😊",Welcome to Istiqomah Shop (Sila Tunggu 15saat)
 https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=download
 
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="MALAYSIA🇲🇾",Welcome to Istiqomah Shop
