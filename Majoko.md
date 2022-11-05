@@ -1259,12 +1259,12 @@ https://linears-playback.astro.com.my/vsg/41AIFz-QbuApmell7ZGNPw7kG7sHNIwNuaoN6C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4  
-https://linears-https://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4YwBpwMNUsoW3-gDyaLdEuk=eWl1/dash-wv/jitp-linearwm/2506/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4YwBpwMNUsoW3-gDyaLdEuk=eWl1/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4 (Backup)
-https://linearshttps://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4YwBpwMNUsoW3-gDyaLdEuk=eWl1/dash-wv/jitp-linearwm/2506/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4YwBpwMNUsoW3-gDyaLdEuk=eWl1/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
