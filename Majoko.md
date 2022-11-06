@@ -1345,22 +1345,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
-https://linears-playback.astro.com.my/vsg/417mae-WDLtY_4qreilteKqD7oVF_6E9gosnpazW4HaPc=7ssW/dash-wv/jitp-linearwm/2104/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 (Backup)
-https://linears-playback.astro.com.my/vsg/417mae-WDLtY_4qreilteKqD7oVF_6E9gosnpazW4HaPc=7ssW/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41H8JsL-WAk2hrhd6mmz3xWXPeNpIHYwitMuM0HhhLrTs=aw7e/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3  
-https://linears-playback.astro.com.my/vsg/41AIFz-QbuApmell7ZGNPw7ka4eUWww0YXte2GYevB_-Y=1YtZ/dash-wv/jitp-linearwm/2701/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3 (Backup) 
-https://linears-playback.astro.com.my/vsg/41AIFz-QbuApmell7ZGNPw7ka4eUWww0YXte2GYevB_-Y=1YtZ/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41BtiGVUmu2azaQsbm1mQnf9cr0cwlKlO8_K7CKkxg7fY=4WX4/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
@@ -1368,20 +1358,9 @@ https://linears-playback.astro.com.my/vsg/41AIFz-QbuApmell7ZGNPw7ka4eUWww0YXte2G
 https://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4QIBsfB1LMlsEjJoYSRQ8LQ=sLHK/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4 (Backup)
-https://linears-playback.astro.com.my/vsg/41TBdCl89DfHi0sTMHNbLD4QIBsfB1LMlsEjJoYSRQ8LQ=sLHK/dash-wv/jitp-linearwm/2506/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-name="astro supersport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 (Backup)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
+https://linears-playback.astro.com.my/vsg/41CCYFTApiKOJ7zMiEKA4EBLtwM-SOZP45ctwqom_iTbk=Qifs/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96d4ec1a73623b5789d78a48b829d10:1ca8dd93af16c84fa1ef5f1b761a03e3
