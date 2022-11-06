@@ -862,11 +862,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" group-title="KIDS", TA-DAA!
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png" group-title="KIDS", ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
-
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="KIDS" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
