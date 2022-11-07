@@ -36,6 +36,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA🇲🇾", DIDIK TV KPM
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQgunqcp2Ej-7O0aUo2h24l4AqL_8ih_ocV3lsdYnMyN)/dm/3/x6qp6ou/s/live-4.m3u8#cell=lsg1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
@@ -73,7 +74,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA🇲🇾", DRAMA SANGAT 
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0k6TJYn3bpuf99_mQ-9n8M7UAopgghEul7dl1i4qvebz)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ot-qRHH7a93VogUhZ_rP2PTxopETu-8-r6Sf6uq2uUc)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-name="astro ria" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA🇲🇾", ASTRO RIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
