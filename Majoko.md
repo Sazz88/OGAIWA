@@ -570,7 +570,7 @@ https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=down
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505f7a8803b542e78941a6bfe40d2910:166626a62cf1b356c298b58842c60661
-#EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="INDIA🇮🇳",Star Vijay HD
+#EXTINF:-1 tvg-id="221" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIA🇮🇳",Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
