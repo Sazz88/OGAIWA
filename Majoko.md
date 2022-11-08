@@ -1704,11 +1704,11 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 https://webudi.openhd.lol/lb/premium554/index.m3u8
 # http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/163132
 
-#EXTINF:-1 tvg-name="Premier Football 1" tvg-id="CHN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="SPORTS", Premier Football 1
+#EXTINF:-1 tvg-name="Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="SPORTS", Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-name="Premier Football 2" tvg-id="CHN" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="SPORTS",Premier Football 2
+#EXTINF:-1 tvg-ID="PremierFootball2" tvg-name="Premier Football 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_original.png" group-title="SPORTS",Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
