@@ -573,28 +573,22 @@ https://drive.google.com/u/1/uc?id=13SWHscI5pJ1EyTA78-UxhgfDPj7v8ezW&export=down
 #EXTINF:-1 tvg-id="221" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIA🇮🇳",Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19e79967a0f1ead8bb7bc453bbc3d110:592722a6819d1226921e68d689262497
-#EXTINF:-1 tvg-id="chuttitvhd" group-title="INDIA🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Kushi_TV_logo.jpg",Chutti TV HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
-
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="INDIA🇮🇳" tvg-id="ZeeTamilhd" tvg-name="ZeeTamil.in", Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110:7261ce40695be3526cf0e8e224546723
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="INDIA🇮🇳" tvg-id="SunTV.in" tvg-name="SunTV.in", Sun TV
+#EXTINF:-1 tvg-id="211" ch-number="211" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86926949493ad3767442c338b3140810:cbccf2086e836ad13b783f6166f888fd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
 #EXTINF:-1 tvg-id="colourstamilhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="INDIA🇮🇳",Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="INDIA🇮🇳" tvg-id="201" tvg-name="201", Astro Vaanavil HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529" group-title="INDIA🇮🇳" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1d439372-3b08-4700-8626-42b62889cb2d
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
@@ -614,26 +608,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10:2daee966c9736498a05505174b266bde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="colorshd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="INDIA🇮🇳", COLORS HINDI HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
-
-#EXTINF:-1 tvg-id="201" ch-number="201" group-title="INDIA🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b48c95c2e844ea2b59e27fb42fe4b510:1168d5b1fcb20ad3973b101f2775c9a9
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
-
-#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39e518b58aff65d51ddd05d1597b1e10:e0fb4b6bf638b44756b6363ffb3db659
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIA🇮🇳" tvg-logo="https://iili.io/1NuZbI.png",Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://stream.zeehanzgadget.com/vinmeen
-
-#EXTINF:-1 tvg-id="202" ch-number="202" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="202" ch-number="202" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39e518b58aff65d51ddd05d1597b1e10:e0fb4b6bf638b44756b6363ffb3db659
 https://aqfadtv.xyz/live/vinmeen/index.mpd
@@ -655,63 +630,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIA🇮🇳",Box Office Bollyone
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="INDIA🇮🇳",Colors
-https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
 #EXTINF:-1 tvg-id="ColorsHD" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIA🇮🇳",Colors Hindi
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
-#EXTINF:-1 tvg-id="222" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-title="INDIA🇮🇳",Colors Tamil
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
-
-#EXTINF:-1 tvg-id="333" group-title="INDIA🇮🇳" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/19741
-
-#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="INDIA🇮🇳",Colors Gujarati
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145645
-
-#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="INDIA🇮🇳",Colors Kannada
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192203
-
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="INDIA🇮🇳",Colors Marathi
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
-
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="Colors Rishtey Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="INDIA🇮🇳",Colors Rishtey
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/49547
-
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.ibb.co/hZ37R7j/Desain-tanpa-judul-2022-07-19-T144552-875-modified.png" group-title="INDIA🇮🇳",&Picture
-#EXTVLCOPT:http-user-agent=生放送 生放送 生放送
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/picture
-
-#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.ibb.co/WcGgzMt/Desain-tanpa-judul-2022-07-19-T144615-416-modified.png" group-title="INDIA🇮🇳",&TV
-#EXTVLCOPT:http-user-agent=生放送 生放送 生放送
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/tv
-
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://i.ibb.co/HYQ4CkZ/Desain-tanpa-judul-2022-07-19-T144628-095-modified.png" group-title="INDIA🇮🇳",&xplor
-#EXTVLCOPT:http-user-agent=生放送 生放送 生放送
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/xplor
-
-#EXTINF:-1 tvg-id="211" ch-number="211" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86926949493ad3767442c338b3140810:cbccf2086e836ad13b783f6166f888fd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #EXTINF:-1 tvg-id="212" ch-number="212" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40636fba89de95f6d4b5ef63f4f3b510:9515d6b00e269cbef3ab6454a96ae63b
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
-
-#EXTINF:-1 tvg-id="213" ch-number="213" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",Chutti TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19e79967a0f1ead8bb7bc453bbc3d110:592722a6819d1226921e68d689262497
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
 
 #EXTINF:-1 tvg-id="214" ch-number="214" group-title="INDIA🇮🇳" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -723,110 +651,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110:7261ce40695be3526cf0e8e224546723
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee TV India" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="INDIA🇮🇳",Zee TV
-https://cdn-01.toffeelive.com/origin-01/live-origin/smil:zee_tv_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ZeeCinemaAsia.in" tvg-name="Zee Cinema Asia" tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="INDIA🇮🇳", Zee Cinema 
-http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d1243556aa1b35eefa1d88a066c0db2cc9318e74-99c2917f032c39728e02fd0015e0d535-1662839931-1662829131
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghanta" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8f1da0128e2eec1a1f93811e761f7d8.png" group-title="INDIA🇮🇳",Zee 24 Ghanta
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/193187
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Kalak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8df915e2607e4ae07918bc72a56f1d3f.png" group-title="INDIA🇮🇳",Zee 24 Kalak
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/45484
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Taas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1b7b532d257ffedc9d801c3cb570324.png" group-title="INDIA🇮🇳",Zee 24 Taas
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/45486
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="INDIA🇮🇳",Zee Action
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1353
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="INDIA🇮🇳",Zee Aflam
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/22067
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5fee6bbc5e1c2292220e23c6e6d780f.png" group-title="INDIA🇮🇳",Zee Anmol Cinema
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/19467
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="INDIA🇮🇳",Zee Bangla
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145632
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title="INDIA🇮🇳",Zee Bangla Cinema
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/21658
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bihar Jharkhand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/23c086c0546d99ea276197a9cb710521.png" group-title="INDIA🇮🇳",Zee Bihar Jharkhand
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/193006
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Biskope" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7233d1c55fa2743287fdb526f9a771a8.png" group-title="INDIA🇮🇳",Zee Biskope
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/193009
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="INDIA🇮🇳",Zee Bollywood
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1351
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="INDIA🇮🇳",Zee Business
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/16984
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinemalu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8eb47f24ddbe33c7663d18f458aa9467.png" group-title="INDIA🇮🇳",Zee Cinemalu
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/45504
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="INDIA🇮🇳",ZEE Classic
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/21578
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Hindustan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e76a9bdf41d34fde4f1b8221efc355b4.png" group-title="INDIA🇮🇳",Zee Hindustan
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145633
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9b9b9240cc9786677a699ca48209b819.png" group-title="INDIA🇮🇳",Zee Kannada
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145631
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/22c07d819c25e84c3cd737e78b6aeab6.jpg" group-title="INDIA🇮🇳",Zee Magic
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/281920
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e2afbdf7bca28dd91216f35336c75ef.png" group-title="INDIA🇮🇳",Zee Marathi
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82646
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59f3fa24fe411768bb5e776b6b0ec11d.png" group-title="INDIA🇮🇳",Zee News
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/5047
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Picchar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cf5fce71f2c61324a8f9516e43c0f3dc.png" group-title="INDIA🇮🇳",Zee Picchar
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192201
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1a9bd21bb7f80d985fbb194e5a0c4b2.png" group-title="INDIA🇮🇳",Zee Punjabi
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/145630
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Sarthak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b852ca2198763583db30d486c556655.png" group-title="INDIA🇮🇳",Zee Sarthak
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/193135
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Talkies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a65529546647b12b26bebc2ce020e6d.png" group-title="INDIA🇮🇳",Zee Talkies
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/16957
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e70e1a61806a9019224ac6801a48c635.png" group-title="INDIA🇮🇳",Zee Telugu
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/21561
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Telugu News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/79e9c81f5723dfd9c4f3ca8d6e1580b8.jpeg" group-title="INDIA🇮🇳",Zee Telugu News
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/296489
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="INDIA🇮🇳",Zee World
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/172264
-
-#EXTINF:-1 tvg-id="" tvg-name="Zee Yuva" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/16ba9a8ffb1485d63b548dede9a17524.png" group-title="INDIA🇮🇳",Zee Yuva
-http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/45502
-
-#EXTINF:-1 tvg-id="221" ch-number="221" group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=505f7a8803b542e78941a6bfe40d2910:166626a62cf1b356c298b58842c60661
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="Star Gold HD India" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="INDIA🇮🇳",Star Gold
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1070
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIA🇮🇳",BBO Classic Movies
-https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
-
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIA🇮🇳",Box office Bollywood
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 #EXTINF:0 group-title="INDIA🇮🇳" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -870,24 +699,6 @@ http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
-#EXTINF:0 group-title="INDIA🇮🇳" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg",MK Six
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-
-#EXTINF:0 group-title="INDIA🇮🇳" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg",MK Tunes
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-
-#EXTINF:0 group-title="INDIA🇮🇳" tvg-logo="http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png",MK TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="INDIA🇮🇳",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -923,42 +734,6 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA🇮🇳",Akaram Kidz
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="INDIA🇮🇳",Kalaignar TV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-
-#EXTINF:0 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="INDIA🇮🇳",Raj TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA🇮🇳",Thanthi TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/mNX-Fl-1cgwBzuF8m8YFcaF7GGNUQAl5gLtH7eJNrYSZHYnw1GIVgTXSQT5K7OEM_1aE=s180" group-title="INDIA🇮🇳",Yupp TV Tamil Classics 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="INDIA🇮🇳",Jay TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://livematrix.in:1935/live/jay/index.m3u8
 
 <<<<<<<<<<<≤<<<<<<<<<<<<<<<<<<<CHINA>>≥>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
