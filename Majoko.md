@@ -42,11 +42,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5976b9eba78f7921f19169bb9f612110:10f086eb4d9548925e1caf2374ae9236
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
