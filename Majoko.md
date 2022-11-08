@@ -1492,7 +1492,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
 https://linears-playback.astro.com.my/vsg/41H8JsL-WAk2hrhd6mmz3xWXPeNpIHYwitMuM0HhhLrTs=aw7e/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png", ASTRO SUPERSPORT 2 (Backup)
+#EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", ASTRO SUPERSPORT 2 (Backup)
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium124/index.m3u8
@@ -1502,7 +1502,7 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3  
 https://linears-playback.astro.com.my/vsg/41BtiGVUmu2azaQsbm1mQnf9cr0cwlKlO8_K7CKkxg7fY=4WX4/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png", ASTRO SUPERSPORT 3 (Backup)
+#EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", ASTRO SUPERSPORT 3 (Backup)
 http://51.79.82.208:16062
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -1513,7 +1513,7 @@ https://webudi.openhd.lol/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4  
 https://linears-playback.astro.com.my/vsg/41CCYFTApiKOJ7zMiEKA4EBLtwM-SOZP45ctwqom_iTbk=Qifs/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png", ASTRO SUPERSPORT 4 (Backup)
+#EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", ASTRO SUPERSPORT 4 (Backup)
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium126/index.m3u8
@@ -1523,7 +1523,7 @@ https://webudi.openhd.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup) 
+#EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup) 
 #EXTVLCOPT:http-referrer=https://olacast.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://webudi.openhd.lol/lb/premium43/index.m3u8
