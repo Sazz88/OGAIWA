@@ -1412,7 +1412,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="MUSIC",The Good Life Radio
-https://youtu.be/36YnV9STBqc
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667902931/ei/ctlpY5mqO6ycg8UPm-uImAE/ip/2001:e68:5473:3e59:541c:237:30eb:8be2/id/19hKXI1ENrY.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-uh-30all.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1012500/mh/cD/mm/44/mn/sn-uh-30all/ms/lva/mv/m/mvi/5/pl/55/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/beids/24277531/mt/1667880276/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgCLR-QOD-uvpkdRFKz8pXHRdcNtDwXFU9ieV1CduA-mQCIG31Yf9JeQYsRnpfF4ol2cbNEuk9hqgs0SltwmW-FQVJ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgCDAkLb7run4JBm0du-7-h6BJreCTchWvc4UvfkSWaOECIQCNDI1t3mTehdDkTNSOZurOpaoPNYXmdSNdUI0CnNn5ag%3D%3D/playlist/index.m3u8
 
 *********************Entertainment************
 
