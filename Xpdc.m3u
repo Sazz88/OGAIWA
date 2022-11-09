@@ -9,24 +9,14 @@
 
 ****************Malaysia******************
 
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png", huhu
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/E6mxM_Gf46GcJZxEy6NQ1nt1weLgII_ktxhkbywNRO8Koh4GTen9RZaFa4dvyzj_mBZf=h900.png" group-title="Welcome to Istiqomah", Istiqomah(Sila tunggu 15 saat)
 https://drive.google.com/file/d/13BMogHbUUSe5E5eTfxogg3uvAowxEiUj/view?usp=drivesdk
 
 #EXTINF:-1 tvg-id="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA🇲🇾", TV1 HD  
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=389baefb18db84b8f62b1bddfda5c810:db6410d5d69b60fb66208f61cd4bef44
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA🇲🇾", TV1 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
 #EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA🇲🇾", TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9fec54024f42224cb2fd9836d5317510:1e2fec607ad9f3bf36fbca04fcfacc81
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA🇲🇾", TV2 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
@@ -37,17 +27,17 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA🇲🇾", DIDIK TV KPM
-http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8qDhrbLBBoP3oP34Xslq7g/m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZFgERA8C-jL-vYJAsyucmjJLzeC18zRVkRc5Iwnm85G)/dm/3/x6qp6ou/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5976b9eba78f7921f19169bb9f612110:10f086eb4d9548925e1caf2374ae9236
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSlzDkjaTUC-Autu3-veVkDeoIN_f3gip7C_rW3pzErf)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHazjgciTmv17keTwSg-3_Z5Kf9OTMRpj-KY-4wiqJflr)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
@@ -74,7 +64,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA🇲🇾", DRAMA SANGAT 
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0k6TJYn3bpuf99_mQ-9n8M7UAopgghEul7dl1i4qvebz)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0goGh2-k5utifm8EUivFaBCDM4jd23pHaXNiXgQMYOeo)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA🇲🇾", ASTRO RIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
