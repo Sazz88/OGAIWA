@@ -43,13 +43,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5976b9eba78f7921f19169bb9f612110:10f086eb4d9548925e1caf2374ae9236
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA🇲🇾", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
