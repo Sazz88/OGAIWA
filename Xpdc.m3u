@@ -1527,7 +1527,7 @@ https://webudi.openhd.lol/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5Hd-id_J7qcV2VoB-EHaHNQQ=W97z/dash-wv/jitp-linearwm/5059/default_primary.mpd
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup) 
 #EXTVLCOPT:http-referrer=https://olacast.live/
