@@ -1243,10 +1243,10 @@ http://tvone.millenium-ott.com:25443/8LdlOoBJEw/ZYLAmV8Z5H/133683
 #EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="MOVIES", MY Cinema 
 https://tinyurl.com/tw3x7dx4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIES", BOX MOVIE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Box_Movie_1_logo_2018_3D.png/revision/latest/scale-to-width-down/591?cb=20221103132400&path-prefix=vi" group-title="MOVIES", BOX MOVIE
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIES", FLIXBUS
+#EXTINF:-1 tvg-logo="pngwing.com/pngs/773/350/png-transparent-flixbus-dach-gmbh-logo-berlin-intercity-bus-service-flixbus-logo-text-logo-germany.png" group-title="MOVIES", FLIXBUS
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
