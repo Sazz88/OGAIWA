@@ -1553,7 +1553,8 @@ https://webudi.openhd.lol/lb/premium125/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", ASTRO SUPERSPORT 4  
-https://linears-playback.astro.com.my/vsg/41CCYFTApiKOJ7zMiEKA4EBLtwM-SOZP45ctwqom_iTbk=Qifs/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+#https://linears-playback.astro.com.my/vsg/41CCYFTApiKOJ7zMiEKA4EBLtwM-SOZP45ctwqom_iTbk=Qifs/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 4" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", ASTRO SUPERSPORT 4 (Backup)
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -1563,7 +1564,8 @@ https://webudi.openhd.lol/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 
-https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5Hd-id_J7qcV2VoB-EHaHNQQ=W97z/dash-wv/jitp-linearwm/5059/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5Hd-id_J7qcV2VoB-EHaHNQQ=W97z/dash-wv/jitp-linearwm/5059/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup) 
 #EXTVLCOPT:http-referrer=https://olacast.live/
