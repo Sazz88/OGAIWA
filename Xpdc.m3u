@@ -1532,7 +1532,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
-https://linears-playback.astro.com.my/vsg/41bhqfd5flSlf7l9tiiBOZs_nYsIobpgcdLNQi9GfexFQ=gwfS/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+#https://linears-playback.astro.com.my/vsg/41bhqfd5flSlf7l9tiiBOZs_nYsIobpgcdLNQi9GfexFQ=gwfS/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", ASTRO SUPERSPORT 2 (Backup)
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -1542,7 +1543,8 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3  
-https://linears-playback.astro.com.my/vsg/41BtiGVUmu2azaQsbm1mQnf9cr0cwlKlO8_K7CKkxg7fY=4WX4/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
+#https://linears-playback.astro.com.my/vsg/41BtiGVUmu2azaQsbm1mQnf9cr0cwlKlO8_K7CKkxg7fY=4WX4/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", ASTRO SUPERSPORT 3 (Backup)
 http://51.79.82.208:16062
