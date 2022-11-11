@@ -1532,7 +1532,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+http://185.191.126.216:8080/live/play/TmtoelR6bDRkekZqV0doa2FXRmpabGQwZEdGM0wwTjJkV2xDWjFWTFJEaFJNR1JCVUd4bFdtMXphejA9/115616
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41bhqfd5flSlf7l9tiiBOZs_nYsIobpgcdLNQi9GfexFQ=gwfS/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", ASTRO SUPERSPORT 2 (Backup)
