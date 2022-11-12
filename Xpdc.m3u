@@ -1887,8 +1887,12 @@ https://stream-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="LIFESTYLE", TLC HD
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="LIFESTYLE", TLC HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD (Backup)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 
 ******************NEWS******†*********************
 
