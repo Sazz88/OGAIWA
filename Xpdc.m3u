@@ -1276,6 +1276,10 @@ https://z5ak-live.zee5.com/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8?hd
 #EXTINF:-1 tvg-name="& Pictures" tvg-ID="&Pictures" tvg-logo="https://dennbc.com/wp-content/uploads/2018/12/ChannelLogo_635509666377656250.png" group-title="MOVIES", &Pictures HD
 https://z5ak-live.zee5.com/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1668435659~exp=1668438659~acl=/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8*~hmac=de7d27be2630562b38c1e017c9b0ac69d8898913e73ae0f7454e0c5820e41ce4
 
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-ID="zeecinema" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Cinema_HD_India.png" group-title="MOVIES", Zee Cinema HD
+https://z5ak-live.zee5.com/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1668438376~exp=1668441376~acl=/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8*~hmac=6e9edaf952eb6875861091dea4d24341e25fa21c356279ac5f19a5f846effefe
+
+
 #EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES", Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
 
