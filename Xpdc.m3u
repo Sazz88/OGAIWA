@@ -1268,16 +1268,13 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-name="& Flix" tvg-ID="&Flix" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix HD
-#EXTVLCOPT:http-user-agent=zhzsonsznsdd
-https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1668433531~exp=1668436531~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=77dd484650d03de85cf09ea90ddae6e795ad4f1e4c51aaf9e9a77aec97f88b0d
+https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1668435472~exp=1668438472~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=cb2ee1d352d3a24506aa9435bb53be183204fa1593dfb948dec5da952eeb42c9
 
 #EXTINF:-1 tvg-name="& Prive" tvg-ID="&Prive" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", &Prive HD
-#EXTVLCOPT:http-user-agent=zhzsonsznsdd
-https://z5ak-live.zee5.com/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8?hdnts=st=1668432982~exp=1668435982~acl=/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8*~hmac=17b2010d8bb5586fb8bf84b1a535e57f159e95bd8f16baf07d8d78175b086dda
+https://z5ak-live.zee5.com/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8?hdnts=st=1668435368~exp=1668438368~acl=/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8*~hmac=c745e7c8d7274ee2952343e90f247b0d106d7bfcad8e818f2c4a4e83c2a81c3b
 
-#EXTINF:-1 tvg-name="& Pictures" tvg-ID="&Pictures" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES", &Pictures HD
-#EXTVLCOPT:http-user-agent=zhzsonsznsdd
-https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1668434142~exp=1668437142~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=036fa328cd83c461742f372eb1a70e9a0df96bc2cc313c468aca52b2d8042fc0
+#EXTINF:-1 tvg-name="& Pictures" tvg-ID="&Pictures" tvg-logo="https://dennbc.com/wp-content/uploads/2018/12/ChannelLogo_635509666377656250.png" group-title="MOVIES", &Pictures HD
+https://z5ak-live.zee5.com/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1668435659~exp=1668438659~acl=/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8*~hmac=de7d27be2630562b38c1e017c9b0ac69d8898913e73ae0f7454e0c5820e41ce4
 
 #EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES", Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
