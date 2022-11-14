@@ -1275,6 +1275,9 @@ https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hd
 #EXTVLCOPT:http-user-agent=zhzsonsznsdd
 https://z5ak-live.zee5.com/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8?hdnts=st=1668432982~exp=1668435982~acl=/out/v1/11ceb308c95342ab96f1526cb7003051/index.m3u8*~hmac=17b2010d8bb5586fb8bf84b1a535e57f159e95bd8f16baf07d8d78175b086dda
 
+#EXTINF:-1 tvg-name="& Pictures" tvg-ID="&Pictures" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES", &Pictures HD
+https://z5ak-live.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1668434142~exp=1668437142~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=036fa328cd83c461742f372eb1a70e9a0df96bc2cc313c468aca52b2d8042fc0
+
 #EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES", Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
 
