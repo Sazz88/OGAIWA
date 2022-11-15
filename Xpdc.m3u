@@ -1291,6 +1291,23 @@ https://tinyurl.com/Zeeclassiczawawi
 #EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-ID="zeeanmolcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" group-title="MOVIES", Zee Anmol Cinema
 https://tinyurl.com/Zeeanmolcinemazawawi
 
+#EXTINF:-1 tvg-name="Zee Biskope" tvg-ID="ZeeBiskope" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Biskope
+https://tinyurl.com/Zeebiskopezawawi
+
+#EXTINF:-1 tvg-name="Zee Chitramandir" tvg-ID="ZeeChitramandir" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Chitramandir
+https://tinyurl.com/Zeechitramandirzawawi
+
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-ID="ZeeTalkies" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Talkies
+https://tinyurl.com/Zeetalkieszawawi
+
+#EXTINF:-1 tvg-name="Zee Cinemalu" tvg-ID="ZeeCinemalu" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Cinemalu
+https://tinyurl.com/Zeecinemaluzawawi
+
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-ID="ZeeBanglaCinema" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Bangla Cinema
+https://tinyurl.com/Zeebanglacinemazawawi
+
+#EXTINF:-1 tvg-name="Zee Picchar" tvg-ID="ZeePicchar" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee_Classic_India.png" group-title="MOVIES", Zee Picchar
+https://tinyurl.com/Zeepiccharzawawi
 
 #EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES", Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
@@ -1320,12 +1337,12 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (Malaysub)
+#EXTINF:-1 tvg-name="ccm" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (MY)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (Indosub)
+#EXTINF:-1 tvg-name="ccm (indonesia feed)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (IN)
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/ccm.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
