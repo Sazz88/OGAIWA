@@ -1342,7 +1342,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
-#EXTINF:-1 tvg-name="ccm (indonesia feed)" tvg-id="ccmindonesiafeed" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (IN)
+#EXTINF:-1 tvg-name="ccm (id)" tvg-id="ccm(id)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="MOVIES", CCM (IN)
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/ccm.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
