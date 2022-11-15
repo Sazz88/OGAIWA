@@ -1221,13 +1221,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES", HBO
+#EXTINF:-1 tvg-name="hbo (my)" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES", HBO (MY)
 #https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-MelsUH4mZ-xBpwsh_oflfI=HvZD/dash-wv/jitp-linearwm/2304/default_primary.mpd
-http://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-K0OR5GItm6mtas2ZRcfdAI=wjVp/dash-wv/jitp-linearwm/2304/default.mpd
+https://tinyurl.com/Hbohdmalay
+#http://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-K0OR5GItm6mtas2ZRcfdAI=wjVp/dash-wv/jitp-linearwm/2304/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
+#EXTINF:-1 tvg-name="hbo (in)" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (IN)
 https://live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1575,7 +1576,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", ASTRO SUPERSPORT 2 
 #https://linears-playback.astro.com.my/vsg/41j3oUj67HqBWZILipH0Hf2ndBDpvVLMlkpC1rH4cV3Qw=e8Pn/dash-wv/jitp-linearwm/2104/default.mpd
-http://linears-playback.astro.com.my/vsg/4107v3HTgyovsplXuaKhUdFzLit9ImPhP4ZIjsCRQSlpk=iTj7/dash-wv/jitp-linearwm/2104/default.mpd
+https://tinyurl.com/Supersport2hd
+#http://linears-playback.astro.com.my/vsg/4107v3HTgyovsplXuaKhUdFzLit9ImPhP4ZIjsCRQSlpk=iTj7/dash-wv/jitp-linearwm/2104/default.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", ASTRO SUPERSPORT 2 (Backup)
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -1586,7 +1588,8 @@ https://webudi.openhd.lol/lb/premium124/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", ASTRO SUPERSPORT 3  
 #https://linears-playback.astro.com.my/vsg/41MG_PqrlO0G3w0cYWHQC1dafUe8ucPg4mwlQ0oJ6ASrw=eLBX/dash-wv/jitp-linearwm/2701/default.mpd
-https://linears-playback.astro.com.my/vsg/41U664KSFf68CzBohLjeRnpLOleIzuTVg1UBZ_EJeSH08=1P-d/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://tinyurl.com/Supersport3hd
+#https://linears-playback.astro.com.my/vsg/41U664KSFf68CzBohLjeRnpLOleIzuTVg1UBZ_EJeSH08=1P-d/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", ASTRO SUPERSPORT 3 (Backup)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
@@ -1608,7 +1611,8 @@ https://webudi.openhd.lol/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS", ASTRO SUPERSPORT 5 
 #https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5HQMlamZTx6X00fZt9f3F5Zk=TPnF/dash-wv/jitp-linearwm/5059/default.mpd
-https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5HRmpjGrd_iTCDVmnk5LWujk=kZ3P/dash-wv/jitp-linearwm/5059/default_primary.mpd
+https://tinyurl.com/Supersport5hd
+#https://linears-playback.astro.com.my/vsgN/41R3n2W6WJRWaDosYKwLq5HRmpjGrd_iTCDVmnk5LWujk=kZ3P/dash-wv/jitp-linearwm/5059/default_primary.mpd
 
 #EXTINF:-1 tvg-name="astro supersport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup) 
 #EXTVLCOPT:http-referrer=https://olacast.live/
