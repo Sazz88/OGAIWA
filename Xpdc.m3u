@@ -1195,7 +1195,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="MOVIES", tvN Movies HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-**************************************MOVIE**********************************
+*************************************MOVIE**********************************
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
