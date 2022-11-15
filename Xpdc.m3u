@@ -1221,7 +1221,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-name="hbo (my)" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES", HBO (MY)
+#EXTINF:-1 tvg-name="hbo (my)" tvg-id="hbo" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES", HBO (MY)
 #https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-MelsUH4mZ-xBpwsh_oflfI=HvZD/dash-wv/jitp-linearwm/2304/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #http://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-K0OR5GItm6mtas2ZRcfdAI=wjVp/dash-wv/jitp-linearwm/2304/default.mpd
