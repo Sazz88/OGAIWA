@@ -2184,11 +2184,14 @@ https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
 
+
+******************Movie vod***********
+
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/1.png",S1 EP1 Esok Puasa
-https://dl112.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1JpTncwakRrekNLVUg3Y1lDd3ZlcExvSWVaZXhkOHRuMFFjNGErQzZNTjlhQ1BBcTJwcGt5U2k3RXBmQWt0aXJiNW93bEhKdFhXd2FzM3JTRnhIUWtyd0gyVVBER0lMTmNSVzlDbkJNMWd6YmR3ZUdBL3hMOXZDQ0FuZ3VHZERRRG9ENGZOUGpWck00ZWd6R2NOcTY4aThaRHZpK0Y1OGNiaWFqUDRsZWlrZUo0cThvb1drWWg%3D
+https://dl63.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1JpTncwakZzS0VhSkM3YUE2eE8ydGFKZ0VaWUlmeEptdEZaVUZ2blg5WXQrQWV6K2N0NHNuZlNmWnA4Wnp0QytidFlncFZjeE9SaGZzazd2bXhCZHZoaExoYTlySVVPcHdZR2N2NWhKRmcyUEI2c2JHcUViOXYwKzk2bU8yVTNCUzRpdEZNT1dFdDVoTjJqVG1WckhoeTRBTXZ5T0w2NWRNaDZITDRsbXVsK1Z2Nm8welRVMXVkczBNajhpa2g2T2YvQUVLbHNRWTJCejE%3D
 
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/2.png",S1 EP2 Dugaan
-https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP2.mp4&raw=true&type=file.mp4
+https://tinyurl.com/Upinipinseason1
 
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/3.png",S1 EP3 Nikmat
 https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP3.mp4&raw=true&type=file.mp4
