@@ -3,7 +3,7 @@
 https://zfu9cq.sn.files.1drv.com/y4mzXkuVo_LDHcCcJwY-YUuvFPIo0gFy7N43weR-Bql3xhNJdYEjDmJxng_PC912B6PQgKTCY4D7iPGvjZB-SJkpNkEgTb6jgsri3LhNGfdlPYx1baUn3TuHNx5ItWkkvBuiEwUZL3IMY9kXZ40QHt_Bha1zS5_fUCJg3IHjc8_sNG403jfBRjno-r-8k4N8msV2XXdslQiQEusZY5Z2_Jk1Q?
 
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/2.png",S1 EP2 Dugaan
-https://dl105.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1JpTncwakZzS0VhSkM3YUE2eE8ydGFKZ0VaWUlmeEptdEZaVUd2blg4Wk5lS01RRzI0c0IyVWoyTTU0Sjd2emJEOXJFd1dOMTVDMU9xdmYrc2d5Vmppd0t3TFA3QUJld1RQMUV2NWhKRjNCVEt5K0dBdkR2UW9raVM4eFhUZkdvSG9tOU5PdkRmckxKeGsyelRmLzcyMW9RTW9DUENzOHdmZ3FqSjdWaXVrZlF0c2Nad0F4VXRJc2tOaXNxc21lUGErRU1iMkE9PQ%3D%3D
+https://dl105.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1JpTncwakZzS0VhSkM3YUE2eE8ydGFKZ0VaWUlmeEptdEZaVUd2blg4Wk5lS01RRzI0c0IyVWoyTTU0Sjd2emJEOXJFd1dOMTVDMU9xdmYrc2d5Vmppd0t3TFA3QUJld1RQMUV2NWhKRjNCVEt5K0dBdkR2UW9raVM4eFhUZkdvSG9tOU5PdkRmckxKeGsyelRmLzcyMW9RTW9DUENzOHdmZ3FqTDdWbXVrUFF0c2Nad0F4VXRJc2tOaXNxc21lUGErRU1iMkE9PQ%3D%3D
 
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S1/3.png",S1 EP3 Nikmat
 https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S1/EP3.mp4&raw=true&type=file.mp4
