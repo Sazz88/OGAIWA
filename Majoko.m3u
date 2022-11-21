@@ -1913,6 +1913,23 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",Sony Sports Ten 5
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
+**************************World cup 2022*****†*****
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="WORLD CUP 2022 QATAR", TSN 1
+https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="WORLD CUP 2022 QATAR", TSN 2
+https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="WORLD CUP 2022 QATAR", TSN 3
+https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="WORLD CUP 2022 QATAR", TSN 4
+https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="WORLD CUP 2022 QATAR", TSN 5
+https://webudi.openhd.lol/lb/premium115/index.m3u8|referer=https://besthdplayer.click/
+
 <<<<<<<<<<<<<<<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
