@@ -2853,15 +2853,15 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET8Q
 
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_.jpg" group-title="Rurouni Kenshin",Rurouni Kenshin
 https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin: Kyoto Inferno
+#EXTINF:-1 type="movie" tvg-logo="https://play-lh.googleusercontent.com/otoeWtoX2Q0jrxWiBt-LH-WeXodUVZK8eywjSwTSjNBtI-N8SGawl8GisXbT0w0amiA" group-title="Rurouni Kenshin",Rurouni Kenshin: Kyoto Inferno
 https://www.googleapis.com/drive/v3/files/1AgyreabgsHd1ox5cyr0TSnzuTKnQbHBh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin: The Legend Ends
+#EXTINF:-1 type="movie" tvg-logo="https://occ-0-360-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUzIe6mjVkZyKtr-OSf-mtMdjM7REkZX3vmXplucye9Prc__9i6IVPASUX6w3XNnfB5FT74iqY5cUL9QaCZ4D7xZJxXTjnVgHo_1.jpg?r=c59" group-title="Rurouni Kenshin",Rurouni Kenshin: The Legend Ends
 https://www.googleapis.com/drive/v3/files/1Zyglg3PmfiuEL9izN3NTwcFpLf5dYK8J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin: The Final
+#EXTINF:-1 type="movie" tvg-logo="https://fictionhorizon.com/wp-content/uploads/2021/09/%E2%80%98Rurouni-Kenshin-The-Final-Review.jpg" group-title="Rurouni Kenshin",Rurouni Kenshin: The Final
 https://www.googleapis.com/drive/v3/files/1RLv4mDimfaYDsrNbwnS9Um4PhrAwC31C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin: Final Chapter Part II – The Beginning
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY3MzdlNDItYWQwZi00OGRhLThjNjEtOGFiMzM4MDVmODk3XkEyXkFqcGdeQXVyMTY0NTE0Nzg@._V1_.jpg" group-title="Rurouni Kenshin",Rurouni Kenshin: Final Chapter Part II – The Beginning
 https://www.googleapis.com/drive/v3/files/1_AvmMrJO5eXd37E2MXCeYCsjVkmvmXWO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="movie" group-title="Indiana Jones",Indiana Jones: Raiders of the Lost Ark
