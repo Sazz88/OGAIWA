@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie" tvg logo="https://img.favpng.com/9/23/19/movie-logo-png-favpng-nRr1DmYq3SNYSLN8571CHQTEG.jpg"
+
+
 #EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin
 https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" group-title="Rurouni Kenshin",Rurouni Kenshin: Kyoto Inferno
