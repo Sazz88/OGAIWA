@@ -2921,15 +2921,15 @@ https://www.googleapis.com/drive/v3/files/1k55ESdIuoIqm82k5usfF7QLN6XMsfe9Q?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzNzM5MDUtZmI5MC00NGQ5LWFlNzEtYzE3ODIxNDI3ZmNhXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_FMjpg_UX1000_.jpg" group-title="Indiana Jones",Indiana Jones and the Kingdom of the Crystal Skull
 https://www.googleapis.com/drive/v3/files/1NeFh0BOHtuApQ2t-ZkrZ0TILI2E4Rru4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" group-title="Final Destination",Final Destination
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Final Destination", Final Destination
 https://www.googleapis.com/drive/v3/files/1SZOECxDlXotCKiGf_6Wijl-zJlNUD-8v?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Final Destination",Final Destination 2
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/b2eaaa9f56e76556f868178c407f0b5c/0ecab89e-4f58-45dd-8f67-acb2485797e7.jpg" group-title="Final Destination",Final Destination 2
 https://www.googleapis.com/drive/v3/files/1b0Tgl2WYhFa2JHOZOjT0B6KYnHR9wp1W?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Final Destination",Final Destination 3
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/934c1d1936e2f65f29781758401825d7/ba4657cc-3cc0-4626-8c64-c6298dfcc545.jpg" group-title="Final Destination",Final Destination 3
 https://www.googleapis.com/drive/v3/files/1Ous47hTRfANoTwO5TXv_M1mm_YxaSikF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Final Destination",Final Destination 4
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/b4e6c19efcebe903965ea995e4936b7d/184fdffb-7b14-496a-87de-86a307e41817.jpg" group-title="Final Destination",Final Destination 4
 https://www.googleapis.com/drive/v3/files/1OZkjxeBg9gE7xPsc42ngIfMlFhPQfPmY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Final Destination",Final Destination 5
+#EXTINF:-1 type="movie" tvg-logo="https://pics.filmaffinity.com/Final_Destination_5-650939978-large.jpg" group-title="Final Destination",Final Destination 5
 https://www.googleapis.com/drive/v3/files/1FNHiNKIgQSeE3wWCh_9WrcWsPnaSsPMd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="movie" group-title="The Matrix",The Matrix
