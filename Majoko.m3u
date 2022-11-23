@@ -101,12 +101,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-name="astro warna" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIAN", ASTRO WARNA 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://aqfadtv.xyz/live/warna/index.mpd
-http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
+https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-name="astro citra" tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="MALAYSIAN", ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#https://aqfadtv.xyz/live/citra/index.mpd
+https://stream.zeehanzgadget.com/citra
 
 
 #####№###############Brunei###################****
