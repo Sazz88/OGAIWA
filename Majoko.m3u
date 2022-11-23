@@ -2912,13 +2912,13 @@ https://www.googleapis.com/drive/v3/files/1RLv4mDimfaYDsrNbwnS9Um4PhrAwC31C?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY3MzdlNDItYWQwZi00OGRhLThjNjEtOGFiMzM4MDVmODk3XkEyXkFqcGdeQXVyMTY0NTE0Nzg@._V1_.jpg" group-title="Rurouni Kenshin",Rurouni Kenshin: Final Chapter Part II – The Beginning
 https://www.googleapis.com/drive/v3/files/1_AvmMrJO5eXd37E2MXCeYCsjVkmvmXWO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" group-title="Indiana Jones",Indiana Jones: Raiders of the Lost Ark
+#EXTINF:-1 type="movie" tvg-logo="https://www.ubuy.com.my/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFVT0JTRFFoMEwuX0FDX1NMMTUwMF8uanBn.jpg" group-title="Indiana Jones",Indiana Jones: Raiders of the Lost Ark
 https://www.googleapis.com/drive/v3/files/1zq7U9XsF2nbQMETIezQQ8Kme0h_UwTsZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Indiana Jones",Indiana Jones and the Temple of Doom
+#EXTINF:-1 type="movie" tvg-logo="https://flxt.tmsimg.com/assets/p9614_p_v12_au.jpg" group-title="Indiana Jones",Indiana Jones and the Temple of Doom
 https://www.googleapis.com/drive/v3/files/17okIokqI5ssa0cylndLU2GXtaLsDLk7x?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Indiana Jones",Indiana Jones and the Last Crusade
+#EXTINF:-1 type="movie" tvg-logo="https://flxt.tmsimg.com/assets/p11642_p_v12_av.jpg" group-title="Indiana Jones",Indiana Jones and the Last Crusade
 https://www.googleapis.com/drive/v3/files/1k55ESdIuoIqm82k5usfF7QLN6XMsfe9Q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" group-title="Indiana Jones",Indiana Jones and the Kingdom of the Crystal Skull
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIzNzM5MDUtZmI5MC00NGQ5LWFlNzEtYzE3ODIxNDI3ZmNhXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_FMjpg_UX1000_.jpg" group-title="Indiana Jones",Indiana Jones and the Kingdom of the Crystal Skull
 https://www.googleapis.com/drive/v3/files/1NeFh0BOHtuApQ2t-ZkrZ0TILI2E4Rru4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="movie" group-title="Final Destination",Final Destination
