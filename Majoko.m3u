@@ -2954,9 +2954,9 @@ https://www.googleapis.com/drive/v3/files/1GUoPPDZVHbSYN50qPyIn5aExBIPep-vd?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://themoviespoiler.com/wp-content/uploads/2019/10/terminator_dark_fate_ver4.jpg" group-title="The Terminator", Terminator: Dark Fate
 https://www.googleapis.com/drive/v3/files/14LRDX1MnA9fBInZqbM3JyIIeYASOz3Ao?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes-617003864-large.jpg" group-title="Sherlock Holmes", Sherlock Holmes
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes-617003864-large.jpg" type="movie" tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes-617003864-large.jpg" group-title="Sherlock Holmes", Sherlock Holmes
 https://www.googleapis.com/drive/v3/files/165d1JFj3mAmOU9j93zIFV7zTSdyTlHYL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/eef67065e4e0286716284be48e8fa33a/b625ed2a-edce-48f2-9446-c7b0cdb97d63.jpg" group-title="Sherlock Holmes", Sherlock Holmes: A Game of Shadows
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sherlock_Holmes-617003864-large.jpg" type="movie" tvg-logo="https://images.moviesanywhere.com/eef67065e4e0286716284be48e8fa33a/b625ed2a-edce-48f2-9446-c7b0cdb97d63.jpg" group-title="Sherlock Holmes", Sherlock Holmes: A Game of Shadows
 https://www.googleapis.com/drive/v3/files/1s0-HWNC9V-e92ktvOEJdnn5eJgqJKbM1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
