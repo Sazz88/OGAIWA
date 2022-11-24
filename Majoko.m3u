@@ -1930,6 +1930,15 @@ https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1483
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", Arena Premium 1
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/285558
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORTV
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/4015
+
 
 #EXTINF:-1 tvg-id="BEINSPORTSMAX1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
@@ -1943,18 +1952,6 @@ http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
 #EXTINF:-1 tvg-id="BEINSPORTSMAX6" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
-https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 2
-https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 3
-https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 4
-https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
 
 <<<<<<<<<<<<<<##<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
 
