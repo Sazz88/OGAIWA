@@ -1929,17 +1929,17 @@ https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
 
-#EXTINF:-1 tvg-id="BEINSPORTSMAX1" tvg-logo="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
-#EXTINF:-1 tvg-id="BEINSPORTSMAX2" tvg-logo="BEIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
-#EXTINF:-1 tvg-id="BEINSPORTSMAX3" tvg-logo="BEIN SPORTS MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
-#EXTINF:-1 tvg-id="BEINSPORTSMAX4" tvg-logo="BEIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
-#EXTINF:-1 tvg-id="BEINSPORTSMAX5" tvg-logo="BEIN SPORTS MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX5" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
-#EXTINF:-1 tvg-id="BEINSPORTSMAX6" tvg-logo="BEIN SPORTS MAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
+#EXTINF:-1 tvg-id="BEINSPORTSMAX6" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
