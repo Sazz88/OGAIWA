@@ -6,6 +6,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/qa.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/rs.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/rs.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
