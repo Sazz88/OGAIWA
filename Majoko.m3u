@@ -1970,17 +1970,17 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/olahraga/superlaliga
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 FHD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
