@@ -107,7 +107,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-name="astro warna" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIAN", ASTRO WARNA 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://aqfadtv.xyz/live/warna/index.mpd
-http://linears-playback.astro.com.my/vsg/41REImSDMeuuVm94U_glhU778BQscNyDA3bJiG6KuMx_w=yNAM/dash-wv/jitp-linearwm/2402/default.mpd
+http://66.90.98.26:35461/80201111401/757789/13629?token=ODhOYVF5U2Z0UVRDV2Z2#http://51.79.82.208:16010#https://smetv.live/freeMY/NEXTV/1426
+#http://linears-playback.astro.com.my/vsg/41REImSDMeuuVm94U_glhU778BQscNyDA3bJiG6KuMx_w=yNAM/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 tvg-name="astro citra" tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="MALAYSIAN", ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
