@@ -1944,7 +1944,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
 https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 
-#EXTINF:-1 tvg-id="foxsports1" tvg-name="fox sports 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",FOX SPORTS 1
+#EXTINF:-1 tvg-id="foxsports1" tvg-name="fox sports 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://e7.pngegg.com/pngimages/102/303/png-clipart-2022-fifa-world-cup-qatar-logo-brand-world-cup-text-logo.png",FOX SPORTS 1
 https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
 
 #EXTINF:0 tvg-id="TSN1.ca" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",TSN 1
