@@ -1944,26 +1944,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
 https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 
-#EXTINF:-1 tvg-id="foxsports1" tvg-name="fox sports 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://png.pngtree.com/png-vector/20220525/ourlarge/pngtree-fifa-world-cup-qatar-2022-with-flags-png-image_4721231.png", FOX SPORTS 1
+#EXTINF:-1 tvg-id="foxsports1" tvg-name="fox sports 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://www.liblogo.com/img-logo/fs1127f67e-fs1-logo-fs1-fox-sports-2-full-size-png-download-.png", FOX SPORTS 1
 https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
 
-#EXTINF:0 tvg-id="TSN1.ca" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://png.pngtree.com/png-vector/20220525/ourlarge/pngtree-fifa-world-cup-qatar-2022-with-flags-png-image_4721231.png", TSN 1
+#EXTINF:0 tvg-id="TSN1.ca" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png", TSN 1
 https://ad2017.openhd.lol/lb/eplayerTSN_1_HD/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
 
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png", sports 18
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png/revision/latest?cb=20220415104510", sports 18
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=811763&extension=ts
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png", itv
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://www.pikpng.com/pngl/m/345-3452179_itv-itv-1-logo-clipart.png", itv
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmUX0rY6_GUu0Q_0i5Hq30Gh0lI7joJ2t3D4z9kIiTCzLwULNfG5sREnTHHV5I9AQo?ext=.ts
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="trt 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="trt 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png",TRT 1
 https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
 
-#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",TVR 1
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/3f/TVR_1_%282010-.n.v.%29.png/revision/latest?cb=20180622131700",TVR 1
 https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
