@@ -1949,8 +1949,10 @@ http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRc
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="trt 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/42s3t41616613172.png",TRT 1
 https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
 
+
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/3f/TVR_1_%282010-.n.v.%29.png/revision/latest?cb=20180622131700",TVR 1
 https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/114.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 1 
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
@@ -1964,32 +1966,6 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
 #EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/119.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
-
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",SPORT TV 1 HD  🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",ELEVEN 1 HD  🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",ELEVEN 1 HD  🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",ELEVEN 2 HD  🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",ELEVEN 2 HD  🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-#EXTINF:-1 tvg-logo="" group-title="FIFA WORLD CUP 2022 QATAR",RTP 1  🇵🇹
-http://194.44.48.82:8002/play/a08d
-
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/165087daf96a1100c726af3e44f4e6bf.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 1 FHD PT
-http://amazontv.me:8519/live/7173409/01514477/1081.m3u8
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/df5be41883b61b81427570f6a2a7b2b4.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 2 FHD PT
-http://amazontv.me:8519/live/7173409/01514477/1082.m3u8
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/935700b39ed49d34ada4533c1360ec88.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 3 FHD PT
-http://amazontv.me:8519/live/7173409/01514477/1083.m3u8
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/e1a04cea7f0a774e593e5cbb78541ef5.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 4 HD PT
-http://amazontv.me:8519/live/7173409/01514477/1084.m3u8
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/54053b98f35ace3873b11681af694d8c.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 5 FHD PT
-http://amazontv.me:8519/live/7173409/01514477/1085.m3u8
-#EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/3880945057d98b07570ae80de9ce6944.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 6 HD PT
-http://amazontv.me:8519/live/7173409/01514477/1086.m3u8
 
 <<<<<<<<<<**<<<<##<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
 
