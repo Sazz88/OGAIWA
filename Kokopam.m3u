@@ -1952,17 +1952,17 @@ https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https
 https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/114.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 1 
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049174&extension=ts&play_token=5MVNb8mEjl
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 #EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/405.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 2 
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049172&extension=ts&play_token=8bzBXG34rW
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
 #EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/116.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 3 
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
 #EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/117.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 4 
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
 #EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/118.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 5 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
 #EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/119.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
 <<<<<<<<<<<<<<##<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
 
