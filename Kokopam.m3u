@@ -1991,7 +1991,7 @@ http://amazontv.me:8519/live/7173409/01514477/1085.m3u8
 #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/3880945057d98b07570ae80de9ce6944.png" group-title="FIFA WORLD CUP 2022 QATAR",Eleven Sports 6 HD PT
 http://amazontv.me:8519/live/7173409/01514477/1086.m3u8
 
-<<<<<<<<<<<<<<##<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
+<<<<<<<<<<**<<<<##<<<<***<*<<<EDUCATION>>>>>>>>>>>>>>>>>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5070
