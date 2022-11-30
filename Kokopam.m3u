@@ -293,7 +293,7 @@ https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="JakTV.id" group-title="INDONESIAN" tvg-logo="https://imgur.io/3ggGYBa?r",JAKTV 
+#EXTINF:-1 tvg-ID="JakTV.id" group-title="INDONESIAN" tvg-logo="https://i.imgur.com/3ggGYBa_d.webp?maxwidth=640&shape=thumb&fidelity=medium",JAKTV 
 https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
