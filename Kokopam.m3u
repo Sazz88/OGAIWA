@@ -199,13 +199,13 @@ https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBang
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://w7.https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="INDONESIAN",RCTI
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="INDONESIAN",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://imgur.io/SK8pjQy?r" group-title="INDONESIAN",MNCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SK8pjQy_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="INDONESIAN",MNCTV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -241,7 +241,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://imgur.io/fAbGImS?r" group-title="INDONESIAN",TRANS 7
+#EXTINF:0 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/fAbGImS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="INDONESIAN",TRANS 7
 https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -288,7 +288,7 @@ https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://imgur.io/YC7JCHo?r",DAAI TV
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://i.imgur.com/YC7JCHo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",DAAI TV
 https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -298,12 +298,12 @@ https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://imgur.io/lb26bgj?r",JTV 
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://i.imgur.com/lb26bgj_d.webp?maxwidth=640&shape=thumb&fidelity=medium",JTV 
 https://av-live-cdn.mncnow.id/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://imgur.io/fpFs6Ay?r",BANDUNG TV 
+#EXTINF:-1 tvg-ID="CHN" group-title="INDONESIAN"tvg-logo="https://i.imgur.com/fpFs6Ay_d.webp?maxwidth=640&shape=thumb&fidelity=medium",BANDUNG TV 
 https://av-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -313,17 +313,17 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="INDONESIAN" tvg-logo="https://imgur.io/xPvrcsr?r",IDX Channel
+#EXTINF:-1 group-title="INDONESIAN" tvg-logo="https://i.imgur.com/xPvrcsr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",IDX Channel
 https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="eNt.ID" tvg-logo="https://imgur.io/VtBLWiv?r" group-title="INDONESIAN",eNt
+#EXTINF:-1 tvg-id="eNt.ID" tvg-logo="https://i.imgur.com/VtBLWiv_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="INDONESIAN",eNt
 https://av-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Besmart.id" group-title="INDONESIAN" tvg-logo="https://imgur.io/WxrOuuc?r",Besmart
+#EXTINF:-1 tvg-id="Besmart.id" group-title="INDONESIAN" tvg-logo="https://i.imgur.com/WxrOuuc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",Besmart
 https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
