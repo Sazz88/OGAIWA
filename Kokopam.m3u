@@ -2628,10 +2628,10 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpg", Home Sweet Home Alone 2021 (2160p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.2160p.DSNP.WEB-DL.DDP5.1.Atmos.HDR.HEVC-EVO%5BTGx%5D.mkv
 
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg", Makmum 2019 (1080p)
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg", Makmum 2019 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2019.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
 
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IyOWU4ZjgtNzdjOC00ZDRkLTk2ZmYtYWFlNzdlY2I0ZGRlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Makmum 2 2021 (1080p)
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IyOWU4ZjgtNzdjOC00ZDRkLTk2ZmYtYWFlNzdlY2I0ZGRlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Makmum 2 2021 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2.2021.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg", Eternals 2021 (2160p)
@@ -2676,7 +2676,7 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.Kin
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg", The King's Man 2021(1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.DDP5.1.DHM.WEB-DL.mp4
 
-#EXTINF:-1 type="movie" type-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_FMjpg_UX1000_.jpg", J2.J Retribusi 2021(1080p)
+#EXTINF:-1 type="movie" type-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_FMjpg_UX1000_.jpg", J2.J Retribusi 2021(1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/J2.J.Retribusi.2021.1080p.V2.WEB-DL-ms.en-PENCURiMOViE.SPACE.mkv.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/1rD7R_4c.jpg" group-title="VOD CHINESE" tvg-id="" tvg-name="", THE KING OF SNIPER IN NORTHEAST
@@ -2965,63 +2965,63 @@ https://www.googleapis.com/drive/v3/files/1lQH6Rt6LdTjJYiiN2vCfWi9DzLLlHnBF?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://themoviespoiler.com/wp-content/uploads/2019/05/john_wick_chapter_three_ver26_xlg.jpg" group-title="John Wick", John Wick 3
 https://www.googleapis.com/drive/v3/files/1Et6Mq0y-Ci8bkKGiiESbJNSSQ9WOXaLM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Maze Runner",The Maze Runner
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/00c4dae168a9e85bbbe482392274e3ab/b63c2858-6cc6-4fd1-8b46-8c16db96891c.jpg" group-title="The Maze Runner", The Maze Runner
 https://www.googleapis.com/drive/v3/files/1ABtxUzGHMn9KjhGBgO-h-fz-67XArWLO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Maze Runner",Maze Runner: The Scorch Trials
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/3b8a042a23ebb9224334e762d9c4ae79/dd6cca5e-c7b5-42a0-8faf-1a927d7541db.jpg" group-title="The Maze Runner", Maze Runner: The Scorch Trials
 https://www.googleapis.com/drive/v3/files/1lL3EDioS3AA34dJBqEPY-fDl4TQywqmP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Maze Runner",Maze Runner: The Death Cure
+#EXTINF:-1 type="movie" tvg-logo="https://static.wikia.nocookie.net/whumpapedia/images/4/4b/Maze_Runner_Death_Cure.jpg/revision/latest?cb=20210914130723" group-title="The Maze Runner", Maze Runner: The Death Cure
 https://www.googleapis.com/drive/v3/files/1SO8RBkaAxzgYAQv6SXUzOmW_EyRqQa73?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Conjuring",The Conjuring
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg" group-title="The Conjuring", The Conjuring
 https://www.googleapis.com/drive/v3/files/1nekyz9Izan7ZZu66MgfQ_pkSIpcGMmOT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Conjuring",The Conjuring 2
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/6f33625e691a7ae1fa890705337825d5/19263390-7507-4e8c-8d0b-ed3f33bbec75.jpg" group-title="The Conjuring", The Conjuring 2
 https://www.googleapis.com/drive/v3/files/1d4ZIOLRhJf3FQjM6WSxtWeRWrsaFR4px?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="The Conjuring",The Conjuring 3
+#EXTINF:-1 type="movie" tvg-logo="https://popcornsg.s3.amazonaws.com/movies/650/950-20755-TheConjujpg" group-title="The Conjuring", The Conjuring 3
 https://www.googleapis.com/drive/v3/files/1GLyIE0bXAV07kHg-B2lQEM_uGJqUSXnI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",Jurassic Park
+#EXTINF:-1 type="movie" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f00bf346385235.58520f9022451.jpg" group-title="Jurassic Park", Jurassic Park
 https://www.googleapis.com/drive/v3/files/1C2zukvxOzZHdnfjnkNFIA09R2v1RjB00?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",The Lost World: Jurassic Park
+#EXTINF:-1 type="movie" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-5600019098.jpg" group-title="Jurassic Park", The Lost World: Jurassic Park
 https://www.googleapis.com/drive/v3/files/1TOjavQfnZFGU6VKr8OnrB990Fhd7qVNn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",Jurassic Park III
+#EXTINF:-1 type="movie" tvg-logo="https://flxt.tmsimg.com/assets/p28034_p_v10_ay.jpg" group-title="Jurassic Park", Jurassic Park III
 https://www.googleapis.com/drive/v3/files/1AMvcujF_X01wN_Rsjb9Q-jv9MhsQ0yOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",Jurassic World
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Jurassic Park", Jurassic World
 https://www.googleapis.com/drive/v3/files/1fEkoQiha_Pdd119D3MF1EacC4J7V5kTk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",Jurassic World: Fallen Kingdom
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="Jurassic Park", Jurassic World: Fallen Kingdom
 https://www.googleapis.com/drive/v3/files/1l_59hufoP8_tVN01Z1i4zG9W6d7WyM3o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jurassic Park",Jurassic World Dominion
+#EXTINF:-1 type="movie" tvg-logo="https://images.moviesanywhere.com/0a70c8761230129bb2ba7f9beee8b288/e823a5a4-e7d3-47ce-a7e0-9ffd60506f3f.jpg" group-title="Jurassic Park", Jurassic World Dominion
 https://www.googleapis.com/drive/v3/files/1wAEgNqxm2B_hBIilwfOh-9I_vw9T8xJM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible
+#EXTINF:-1 type="movie" tvg-logo="https://static.wikia.nocookie.net/missionimpossiblefanon/images/9/91/IMG_20160217_075126.jpg/revision/latest?cb=20160320174640" group-title="Mission: Impossible", Mission: Impossible
 https://www.googleapis.com/drive/v3/files/1bsIXt39nN45LbXBcZi3HAVnpCQmYG7Z3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible II
+#EXTINF:-1 type="movie" tvg-logo="https://cps-static.rovicorp.com/2/Open/Paramount_Pictures_1103/Program/2747825/_derived_jpg_q90_310x470_m0/MissionImpossible2_2000x3000.jpg" group-title="Mission: Impossible", Mission: Impossible II
 https://www.googleapis.com/drive/v3/files/10G5oTFbU0DSSf5sNi4VANujO6HmJCJSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible III
+#EXTINF:-1 type="movie" tvg-logo="https://flxt.tmsimg.com/assets/p149488_p_v8_az.jpg" group-title="Mission: Impossible", Mission: Impossible III
 https://www.googleapis.com/drive/v3/files/1PuMUxBTP3NN9wBS7RGXcmd1L0V8I_tro?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible – Ghost Protocol
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_.jpg" group-title="Mission: Impossible", Mission: Impossible – Ghost Protocol
 https://www.googleapis.com/drive/v3/files/1UoD8fGz7RllGZ5PPcsIRUPM_QWt8mmgk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible – Rogue Nation
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_.jpg" group-title="Mission: Impossible", Mission: Impossible – Rogue Nation
 https://www.googleapis.com/drive/v3/files/1ChcA1u9D1t1ejchklYbOMgEAlji7aJO1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Mission: Impossible",Mission: Impossible – Fallout
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_.jpg" group-title="Mission: Impossible", Mission: Impossible – Fallout
 https://www.googleapis.com/drive/v3/files/1z4k-_cIPgoTL-qUiS9jt95On6FmfTs5g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jason Bourne",The Bourne Identity
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="Jason Bourne",The Bourne Identity
 https://www.googleapis.com/drive/v3/files/1TsNGnOl9H9k8picPmwtfdkYsmNp7PL97?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jason Bourne",The Bourne Supremacy
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIyMDFmMmItMWQzYy00MjBiLTg2M2UtM2JiNDRhOWE4NjBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Jason Bourne",The Bourne Supremacy
 https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jason Bourne",The Bourne Ultimatum
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg" group-title="Jason Bourne",The Bourne Ultimatum
 https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jason Bourne",The Bourne Legacy
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_.jpg" group-title="Jason Bourne",The Bourne Legacy
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Jason Bourne",Jason Bourne
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJlYjVkMjQtN2NlZC00NTJhLThmZjItMTRlZDczMmE3YmI3XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_.jpg" group-title="Jason Bourne",Jason Bourne
 https://www.googleapis.com/drive/v3/files/1MwZMSaly7lNmdzzv8q3y0pg0qcKO9nmi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Transporter",The Transporter
+#EXTINF:-1 type="movie" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-172325275.jpg" group-title="Transporter",The Transporter
 https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Transporter",Transporter 2
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg" group-title="Transporter",Transporter 2
 https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Transporter",Transporter 3
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gucv9gRRnVFDyqeIS1KC7irnX0b.jpg" group-title="Transporter",Transporter 3
 https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
