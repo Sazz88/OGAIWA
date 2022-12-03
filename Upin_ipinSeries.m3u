@@ -375,6 +375,36 @@ http://139.99.96.163:2095/live/User48278/tBw10zkne9/61.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/62.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa62
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/142.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa141
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/141.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa140
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/140.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa139
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/139.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa138
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/138.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa137
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/137.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa136
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/136.ts
+
+
+
 
 
 
