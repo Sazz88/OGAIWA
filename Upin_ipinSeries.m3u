@@ -182,3 +182,101 @@ https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP41.mp
 
 #EXTINF-1 type="series" group-title="Upin & Ipin" tvg-logo="https://aqfadtv.astradamy.com/images/Upin&Ipin/S3/42.png",S3 EP42 Kembara ke Pulau Harta Karun! (Bahagian 8)
 https://aqfadtvonedrive.vercel.app/api?path=/VOD/Series/Upin-%26-Ipin/S3/EP42.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/1.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/2.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/3.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/5.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/6.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa7
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/7.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/8.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa9
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/9.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa10
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/10.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa11
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/11.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa12
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/12.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa13
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa17
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/17.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa18
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/18.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa19
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/19.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Kagawa",kagawa20
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/20.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
