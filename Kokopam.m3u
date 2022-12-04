@@ -87,7 +87,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIAN", TVS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIAN", TVS 
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIAN", DRAMA SANGAT 
