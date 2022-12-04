@@ -87,11 +87,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIAN", TVS 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/TVS_2020.png/revision/latest/scale-to-width-down/200?cb=20210712110211" group-title="MALAYSIAN", TVS 
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIAN", DRAMA SANGAT 
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ot-qRHH7a93VogUhZ_rP2PTxopETu-8-r6Sf6uq2uUc)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
+https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mlUSjg4o5p3UNW30yp8VKhkvVh5ne-V988s931Rpbxm)/dm/3/x6zvnex/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-name="astro ria" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIAN", ASTRO RIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
